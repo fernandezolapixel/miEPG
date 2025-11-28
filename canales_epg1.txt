@@ -1,11 +1,11 @@
 # Fuente: https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
-La 1 HD,La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
+La 1 HD,ES: La 1,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%201.png
 La 2,La 2,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%202.png
 Antena 3 HD,Antena 3,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Antena%203.png
 Cuatro HD,Cuatro,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cuatro.png
 Telecinco HD,Telecinco,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Telecinco.png
 La Sexta HD,La Sexta,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/La%20Sexta.png
-M+ Estrenos HD,M+ Estrenos,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
+M+ Estrenos HD,ES: M+ ESTRENOS,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Estrenos.png
 M+ Hits HD,M+ Hits,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Hits.png
 M+ Originales HD,M+ Originales,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Originales.png
 M+ Nicolas Cage,M+ Nicolas Cage,https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Nicolas%20Cage.png
