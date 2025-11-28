@@ -1,34 +1,4 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-EN-317" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="VAPE",VAPE: +44 7402 442779-EN-317
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/74830
-
-#EXTINF:-1 tvg-id="" tvg-name="VAPE: +44 7402 442779-ES-317" tvg-logo="https://docdog.top/logo/countries/ads/vape.png" group-title="VAPE",VAPE: +44 7402 442779-ES-317
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/74831
-
-#EXTINF:-1 tvg-id="la1.es" tvg-name="ES: LA 1" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_1.png" group-title="GENERALISTAS",ES: LA 1
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/1
-
-#EXTINF:-1 tvg-id="la2.es" tvg-name="ES: LA 2" tvg-logo="https://docdog.top/logo/countries/spain/movistar/LA_2.png" group-title="GENERALISTAS",ES: LA 2
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/2
-
-#EXTINF:-1 tvg-id="antena3.es" tvg-name="ES: ANTENA 3" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Antena_3.png" group-title="GENERALISTAS",ES: ANTENA 3
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/3
-
-#EXTINF:-1 tvg-id="lasexta.es" tvg-name="ES: LA SEXTA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" group-title="GENERALISTAS",ES: LA SEXTA
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/4
-
-#EXTINF:-1 tvg-id="cuatro.es" tvg-name="ES: CUATRO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" group-title="GENERALISTAS",ES: CUATRO
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/5
-
-#EXTINF:-1 tvg-id="telecinco.es" tvg-name="ES: TELECINCO" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" group-title="GENERALISTAS",ES: TELECINCO
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/6
-
-#EXTINF:-1 tvg-id="energy.es" tvg-name="ES: ENERGY" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Energy.png" group-title="GENERALISTAS",ES: ENERGY
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/7
-
-#EXTINF:-1 tvg-id="factoriaficcion.es" tvg-name="ES: FACTORÍA DE FICCIÓN" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png" group-title="GENERALISTAS",ES: FACTORÍA DE FICCIÓN
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/8
-
-#EXTINF:-1 tvg-id="neox.es" tvg-name="ES: NEOX" tvg-logo="https://docdog.top/logo/countries/spain/movistar/Neox.png" group-title="GENERALISTAS",ES: NEOX
-http://esqdawnapi.top:8080/es1581761257190358/21e12acaedb4/9
+https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml
+https://epgshare01.online/epgshare01/epg_ripper_MX1.xml.gz
+https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz
+https://epg.ovh/pl.xml
