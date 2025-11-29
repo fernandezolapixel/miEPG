@@ -5,7 +5,7 @@ La Sexta HD,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sex
 Cuatro HD,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
 Telecinco HD,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Telecinco.png
 Energy,ES: ENERGY,https://docdog.top/logo/countries/spain/movistar/Energy.png
-FDF,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
+Factoría de Ficción,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
 Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
 M+ Cine HD,ES: M+ CINE,https://docdog.top/logo/countries/spain/movistar/M_Cine.png
 M+ Series HD,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
@@ -16,18 +16,18 @@ M+ Drama HD,ES: M+ DRAMA,https://docdog.top/logo/countries/spain/movistar/M_Dram
 M+ Indie HD,ES: M+ INDIE,https://docdog.top/logo/countries/spain/movistar/M_Indie.png
 M+ Cine Español,ES: M+ CINE ESPAÑOL,https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png
 Calle 13 HD,ES: CALLE 13,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
-COSMO,ES: COSMO,https://docdog.top/logo/countries/spain/movistar/COSMO.png
-SYFY,ES: SYFY,https://docdog.top/logo/countries/spain/movistar/SYFY.png
-SkyShowtime 1,ES: SKYSHOWTIME 1,https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png
-STAR Channel,ES: STAR CHANNEL,https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png
+COSMO HD,ES: COSMO,https://docdog.top/logo/countries/spain/movistar/COSMO.png
+SYFY HD,ES: SYFY,https://docdog.top/logo/countries/spain/movistar/SYFY.png
+SkyShowtime,ES: SKYSHOWTIME 1,https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png
+STAR Channel HD,ES: STAR CHANNEL,https://docdog.top/logo/countries/spain/movistar/STAR_Channel.png
 La Resistencia,ES: LA RESISTENCIA,https://docdog.top/logo/countries/spain/movistar/La_Resistencia.png
-TCM,ES: TCM,https://docdog.top/logo/countries/spain/movistar/TCM.png
+TCM HD,ES: TCM,https://docdog.top/logo/countries/spain/movistar/TCM.png
 Paramount Network,ES: PARAMOUNT CHANNEL,https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png
 Be Mad,ES: BE MAD,https://docdog.top/logo/countries/spain/movistar/BE_MAD.png
-Warner TV,ES: WARNER TV,https://docdog.top/logo/countries/spain/movistar/Warner_TV.png
-Hollywood HD,ES: HOLLYWOOD,https://docdog.top/logo/countries/spain/movistar/Hollywood.png
+Warner TV HD,ES: WARNER TV,https://docdog.top/logo/countries/spain/movistar/Warner_TV.png
+Canal Hollywood HD,ES: HOLLYWOOD,https://docdog.top/logo/countries/spain/movistar/Hollywood.png
 AXN HD,ES: AXN,https://docdog.top/logo/countries/spain/movistar/AXN.png
-Comedy Central,ES: COMEDY CENTRAL,https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png
+Comedy Central HD,ES: COMEDY CENTRAL,https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png
 MTV,ES: MTV,https://docdog.top/logo/countries/spain/movistar/MTV.png
 MTV 00s,ES: MTV 00S,https://docdog.top/logo/countries/spain/movistar/MTV_00s.png
 Divinity,ES: DIVINITY,https://docdog.top/logo/countries/spain/movistar/Divinity.png
@@ -68,9 +68,9 @@ Aragón TV INT,ES: ARAGÓN TV INT,https://docdog.top/logo/countries/spain/movist
 EITB Basque,ES: EITB BASQUE,https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png
 TV3CAT,ES: TV3 CAT,https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png
 Telemadrid INT,ES: TELEMADRID INT,https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png
-M+ Documentales,ES: M+ DOCUMENTALES,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
-National Geographic,ES: NATIONAL GEOGRAPHIC,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
-Nat Geo Wild,ES: NAT GEO WILD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
+M+ Documentales HD,ES: M+ DOCUMENTALES,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
+National Geographic HD,ES: NATIONAL GEOGRAPHIC,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
+Nat Geo Wild HD,ES: NAT GEO WILD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
 Historia,ES: HISTORIA,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Discovery,ES: DISCOVERY,https://docdog.top/logo/countries/spain/movistar/Discovery.png
 DMAX,ES: DMAX,https://docdog.top/logo/countries/spain/movistar/DMAX.png
