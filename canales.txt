@@ -74,17 +74,17 @@ Nat Geo Wild HD,ES: NAT GEO WILD,https://docdog.top/logo/countries/spain/movista
 Historia,ES: HISTORIA,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Discovery,ES: DISCOVERY,https://docdog.top/logo/countries/spain/movistar/Discovery.png
 DMAX,ES: DMAX,https://docdog.top/logo/countries/spain/movistar/DMAX.png
-M+ HD (0),ES: MOVISTAR PLUS+,https://docdog.top/logo/countries/spain/movistar/MPLUS.png
+Movistar Plus+ HD,ES: MOVISTAR PLUS+,https://docdog.top/logo/countries/spain/movistar/MPLUS.png
 Movistar Plus+ 2,ES: MOVISTAR PLUS+ 2,https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png
-M+ Originales,ES: M+ ORIGINALES,https://docdog.top/logo/countries/spain/movistar/M_Originales.png
+M+ Originales HD,ES: M+ ORIGINALES,https://docdog.top/logo/countries/spain/movistar/M_Originales.png
 M+ LaLiga HD,ES: (HD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
-M+ LaLiga,ES: (HD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
-M+ LaLiga,ES: (FHD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
-M+ LaLiga,ES: (FHD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
-M+ LaLiga 2,ES: (FHD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
-M+ LaLiga 2,ES: (HD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
-M+ LaLiga 3,ES: (FHD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
-M+ LaLiga 3,ES: (HD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
+M+ LaLiga HD,ES: (HD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
+M+ LaLiga HD,ES: (FHD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
+M+ LaLiga HD,ES: (FHD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
+M+ LaLiga 2 HD,ES: (FHD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
+M+ LaLiga 2 HD,ES: (HD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
+M+ LaLiga 3 HD,ES: (FHD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
+M+ LaLiga 3 HD,ES: (HD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 M+ LaLiga BAR,ES: (FHD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
 M+ LaLiga BAR,ES: (HD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
 LaLiga Hypermotion,ES: (FHD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
