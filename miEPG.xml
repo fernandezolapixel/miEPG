@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/11/2025 12:13" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 29/11/2025 12:30" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="ES: LA 1">
     <display-name>ES: LA 1</display-name>
     <icon src="https://docdog.top/logo/countries/spain/movistar/LA_1.png" />
@@ -11,6 +11,18 @@
   <channel id="ES: LA 2">
     <display-name>ES: LA 2</display-name>
     <icon src="https://docdog.top/logo/countries/spain/movistar/LA_2.png" />
+  </channel>
+  <channel id="ES: LA SEXTA">
+    <display-name>ES: LA SEXTA</display-name>
+    <icon src="https://docdog.top/logo/countries/spain/movistar/La_Sexta.png" />
+  </channel>
+  <channel id="ES: CUATRO">
+    <display-name>ES: CUATRO</display-name>
+    <icon src="https://docdog.top/logo/countries/spain/movistar/Cuatro.png" />
+  </channel>
+  <channel id="ES: TELECINCO">
+    <display-name>ES: TELECINCO</display-name>
+    <icon src="https://docdog.top/logo/countries/spain/movistar/Telecinco.png" />
   </channel>
   <channel id="ES: ENERGY">
     <display-name>ES: ENERGY</display-name>
@@ -4052,6 +4064,3056 @@
 · El ascenso de la temperatura está incidiendo en el comportamiento de los animales que viven en los más abrasadores territorios de nuestro planeta. Y esos cambios están disminuyendo sus posibilidades de supervivencia.
 · País: España
 · Dirección: Álvaro Mendoza.</desc>
+  </programme>
+  <programme start="20251129070500 +0100" stop="20251129072000 +0100" channel="ES: LA SEXTA">
+    <title>Remescar cosmética al instante T1 E19</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *6.0/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+  </programme>
+  <programme start="20251129072000 +0100" stop="20251129083000 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251129083000 +0100" stop="20251129103000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s weekend</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Hans Arús y todo su equipo ocupan la tarde de los fines de semana con su magazine, para desgranar los temas de actualidad en tono de humor.
+· País: España
+· Presenta: Hans Arús.
+· Productora: Aruba Produccions.</desc>
+  </programme>
+  <programme start="20251129103000 +0100" stop="20251129140000 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251129140000 +0100" stop="20251129144000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias Fin de Semana</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle.
+· País: España
+· Dirección: César G. Antón.</desc>
+  </programme>
+  <programme start="20251129144000 +0100" stop="20251129152500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes Fin de Semana</title>
+    <desc>Información,Deportes | *6.4/10
+· Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.
+· País: España
+· Presenta: María Martínez.</desc>
+  </programme>
+  <programme start="20251129152500 +0100" stop="20251129153000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251129153000 +0100" stop="20251129200000 +0100" channel="ES: LA SEXTA">
+    <title>La Roca T5 E25</title>
+    <desc>Entretenimiento,Magacín | 2025 | +12 | *5.4/10
+· El programa, que cuenta con un gran plantel de colaboradores y protagonistas, llena las tardes de los fines de semana de entretenimiento, humor e información.
+· País: España
+· Presenta: Nuria Roca.
+· Dirección: Alberto del Pozo.
+· Productora: Atresmedia Televisión, Banijay Iberia.</desc>
+  </programme>
+  <programme start="20251129200000 +0100" stop="20251129204000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias Fin de Semana</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle.
+· País: España
+· Dirección: César G. Antón.</desc>
+  </programme>
+  <programme start="20251129204000 +0100" stop="20251129204500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251129204500 +0100" stop="20251129211500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes Fin de Semana</title>
+    <desc>Información,Deportes | *6.4/10
+· Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.
+· País: España
+· Presenta: María Martínez.</desc>
+  </programme>
+  <programme start="20251129211500 +0100" stop="20251129214500 +0100" channel="ES: LA SEXTA">
+    <title>Sábado Clave</title>
+    <desc>Información,Informativo | 2025 | +16 | *6.0/10
+· Programa de actualidad y entrevistas críticas con diferentes temáticas de interés social, político y económico presentado por Verónica Sanz.
+· País: España
+· Presenta: Verónica Sanz.</desc>
+  </programme>
+  <programme start="20251129214500 +0100" stop="20251130014500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Xplica</title>
+    <desc>Información,Informativo | 2025 | +16 | *5.8/10
+· Espacio que busca dar respuesta a los interrogantes presentes en la ciudadanía.
+· País: España
+· Presenta: José Yélamo.</desc>
+  </programme>
+  <programme start="20251130014500 +0100" stop="20251130030000 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251130030000 +0100" stop="20251130034000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251130034000 +0100" stop="20251130040000 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251130040000 +0100" stop="20251130050000 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251130050000 +0100" stop="20251130063000 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251130063000 +0100" stop="20251130065000 +0100" channel="ES: LA SEXTA">
+    <title>Vivara: gestionamos tu alquiler</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
+· Vivara: gestionamos tu alquiler.
+· País: España</desc>
+  </programme>
+  <programme start="20251130065000 +0100" stop="20251130074500 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251130074500 +0100" stop="20251130083000 +0100" channel="ES: LA SEXTA">
+    <title>Centímetros cúbicos</title>
+    <desc>Deportes,Programa deportes | 2025 | +7 | *6.0/10
+· Espacio semanal que hace un repaso a la actualidad relacionada con los deportes de motor.
+· País: España</desc>
+  </programme>
+  <programme start="20251130083000 +0100" stop="20251130104000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s weekend</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Hans Arús y todo su equipo ocupan la tarde de los fines de semana con su magazine, para desgranar los temas de actualidad en tono de humor.
+· País: España
+· Presenta: Hans Arús.
+· Productora: Aruba Produccions.</desc>
+  </programme>
+  <programme start="20251130104000 +0100" stop="20251130140000 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251130140000 +0100" stop="20251130144000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias Fin de Semana</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle.
+· País: España
+· Dirección: César G. Antón.</desc>
+  </programme>
+  <programme start="20251130144000 +0100" stop="20251130152500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes Fin de Semana</title>
+    <desc>Información,Deportes | *6.4/10
+· Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.
+· País: España
+· Presenta: María Martínez.</desc>
+  </programme>
+  <programme start="20251130152500 +0100" stop="20251130153000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251130153000 +0100" stop="20251130200000 +0100" channel="ES: LA SEXTA">
+    <title>La Roca T5 E26</title>
+    <desc>Entretenimiento,Magacín | 2025 | +12 | *5.2/10
+· El programa, que cuenta con un gran plantel de colaboradores y protagonistas, llena las tardes de los fines de semana de entretenimiento, humor e información.
+· País: España
+· Presenta: Nuria Roca.
+· Dirección: Alberto del Pozo.
+· Productora: Atresmedia Televisión, Banijay Iberia.</desc>
+  </programme>
+  <programme start="20251130200000 +0100" stop="20251130204000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias Fin de Semana</title>
+    <desc>Información,Informativo | 2014 | *6.0/10
+· Espacio de información de laSexta durante los fines de semana. Un informativo conducido por Cristina Villanueva que pretende ser social y cercano a la gente de la calle.
+· País: España
+· Dirección: César G. Antón.</desc>
+  </programme>
+  <programme start="20251130204000 +0100" stop="20251130204500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251130204500 +0100" stop="20251130213500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes Fin de Semana</title>
+    <desc>Información,Deportes | *6.4/10
+· Un espacio que recoge toda la actualidad deportiva de cada jornada. El programa, presentado por María Martínez, ofrece la más completa información del fútbol, el mejor baloncesto nacional e internacional y la Fórmula 1.
+· País: España
+· Presenta: María Martínez.</desc>
+  </programme>
+  <programme start="20251130213500 +0100" stop="20251201024500 +0100" channel="ES: LA SEXTA">
+    <title>Salvados T24 · Salomé Pradas</title>
+    <desc>Información,Informativo | 2025 | +16
+· Salomé Pradas rompe su silencio en una conversación en la que reconstruye cronológicamente todo lo ocurrido durante la gestión de la DANA. Una charla que se mueve entre la emoción, la solemnidad, la rabia contenida y el pesar por lo sucedido.
+· País: España
+· Dirección: Fernando González, Laura Gimeno.</desc>
+  </programme>
+  <programme start="20251201024500 +0100" stop="20251201032500 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251201032500 +0100" stop="20251201034500 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251201034500 +0100" stop="20251201044500 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251201044500 +0100" stop="20251201064500 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251201064500 +0100" stop="20251201070000 +0100" channel="ES: LA SEXTA">
+    <title>Remescar cosmética al instante T1 E18</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *5.8/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+  </programme>
+  <programme start="20251201070000 +0100" stop="20251201090000 +0100" channel="ES: LA SEXTA">
+    <title>Previo Aruser@s T8 E1550</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251201090000 +0100" stop="20251201110000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s T8 E1550</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251201110000 +0100" stop="20251201141000 +0100" channel="ES: LA SEXTA">
+    <title>Al rojo vivo T25/26 E3736</title>
+    <desc>Información,Debate | 2025 | +16
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251201141000 +0100" stop="20251201150000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251201150000 +0100" stop="20251201154000 +0100" channel="ES: LA SEXTA">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+  </programme>
+  <programme start="20251201154000 +0100" stop="20251201154500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251201154500 +0100" stop="20251201171500 +0100" channel="ES: LA SEXTA">
+    <title>Zapeando T25/26 E2991</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251201171500 +0100" stop="20251201200000 +0100" channel="ES: LA SEXTA">
+    <title>Más vale tarde T25/26 E793</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+  </programme>
+  <programme start="20251201200000 +0100" stop="20251201210000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.4/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251201210000 +0100" stop="20251201212000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.0/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+  </programme>
+  <programme start="20251201212000 +0100" stop="20251201212500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251201212500 +0100" stop="20251201213000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+  </programme>
+  <programme start="20251201213000 +0100" stop="20251201224500 +0100" channel="ES: LA SEXTA">
+    <title>El intermedio T20 E594</title>
+    <desc>Entretenimiento,Humor | 2025 | +12
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251201224500 +0100" stop="20251202011500 +0100" channel="ES: LA SEXTA">
+    <title>Jack Reacher: Nunca vuelvas atrás</title>
+    <desc>Cine,Acción | 2016 | +12 | *7.0/10
+· Jack ayuda a un comandante del ejército incriminado por traición como parte de una conspiración.
+· País: China y Estados Unidos
+· Dirección: Edward Zwick.
+· Reparto: Tom Cruise, Cobie Smulders, Aldis Hodge, Danika Yarosh, Patrick Heusinger, Holt McCallany, Robert Knepper, Michael Papajohn, Madalyn Horcher.
+· Guion: Edward Zwick, Richard Wenk, Marshall Herskovitz.
+· Música: Henry Jackman.
+· Producción: Tom Cruise, Christopher McQuarrie, Don Granger.
+· Productora: Paramount Pictures, Skydance Productions, TC Productions, Skydance Media.</desc>
+  </programme>
+  <programme start="20251202011500 +0100" stop="20251202030000 +0100" channel="ES: LA SEXTA">
+    <title>Mortal Kombat</title>
+    <desc>Cine,Acción | 2021 | +16 | *6.6/10
+· El Mundo Exterior ha derrotado al Reino de la Tierra en 9 de los 10 torneos del "Mortal Kombat". Quienes ostentan la marca del dragón son la última esperanza.
+· País: Australia y Estados Unidos
+· Dirección: Simon McQuoid.
+· Reparto: Lewis Tan, Jessica McNamee, Josh Lawson, Tadanobu Asano, Mehcad Brooks, Chin Han, Joe Taslim, Hiroyuki Sanada, Laura Brent.
+· Guion: Greg Russo, Dave Callaham.
+· Música: Benjamin Wallfisch.
+· Producción: James Wan, Todd Garner, E. Bennett Walsh, Simon McQuoid.
+· Productora: New Line Cinema, Atomic Monster, Broken Road Productions.</desc>
+  </programme>
+  <programme start="20251202030000 +0100" stop="20251202034000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251202034000 +0100" stop="20251202040000 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251202040000 +0100" stop="20251202050000 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251202050000 +0100" stop="20251202064500 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251202064500 +0100" stop="20251202070000 +0100" channel="ES: LA SEXTA">
+    <title>Vivara: gestionamos tu alquiler</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
+· Vivara: gestionamos tu alquiler.
+· País: España</desc>
+  </programme>
+  <programme start="20251202070000 +0100" stop="20251202090000 +0100" channel="ES: LA SEXTA">
+    <title>Previo Aruser@s T8 E1551</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251202090000 +0100" stop="20251202110000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s T8 E1551</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251202110000 +0100" stop="20251202141000 +0100" channel="ES: LA SEXTA">
+    <title>Al rojo vivo T25/26 E3737</title>
+    <desc>Información,Debate | 2025 | +16 | *6.0/10
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251202141000 +0100" stop="20251202150000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251202150000 +0100" stop="20251202154000 +0100" channel="ES: LA SEXTA">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+  </programme>
+  <programme start="20251202154000 +0100" stop="20251202154500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251202154500 +0100" stop="20251202171500 +0100" channel="ES: LA SEXTA">
+    <title>Zapeando T25/26 E2992</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251202171500 +0100" stop="20251202200000 +0100" channel="ES: LA SEXTA">
+    <title>Más vale tarde T25/26 E794</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+  </programme>
+  <programme start="20251202200000 +0100" stop="20251202210000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.4/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251202210000 +0100" stop="20251202212000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.0/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+  </programme>
+  <programme start="20251202212000 +0100" stop="20251202212500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251202212500 +0100" stop="20251202213000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+  </programme>
+  <programme start="20251202213000 +0100" stop="20251202224500 +0100" channel="ES: LA SEXTA">
+    <title>El intermedio T20 E595</title>
+    <desc>Entretenimiento,Humor | 2025 | +12
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251202224500 +0100" stop="20251203003000 +0100" channel="ES: LA SEXTA">
+    <title>Batalla de restaurantes T3 · Las mejores habitas con jamón de Granada</title>
+    <desc>Entretenimiento,Concurso | 2025 | +12 | *6.6/10
+· Cuatro contrincantes se enfrentan para cocinar las mejores habitas con jamón.
+· País: España
+· Presenta: Alberto Chicote.</desc>
+  </programme>
+  <programme start="20251203003000 +0100" stop="20251203021500 +0100" channel="ES: LA SEXTA">
+    <title>Batalla de restaurantes T3 · El mejor cocido montañés</title>
+    <desc>Entretenimiento,Concurso | 2025 | +12 | *7.0/10
+· Chicote viaja hasta Cantabria para encontrar el mejor cocido montañés. Para ello, visitará La Portada Asador, en Cabezón de la Sal, El Mesón San Cipriano, en Mazcuerras, Cuchara Canalla, en Santander y, finalmente, La Nueva Santuca.
+· País: España
+· Presenta: Alberto Chicote.</desc>
+  </programme>
+  <programme start="20251203021500 +0100" stop="20251203030000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251203030000 +0100" stop="20251203031500 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251203031500 +0100" stop="20251203041500 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251203041500 +0100" stop="20251203064500 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251203064500 +0100" stop="20251203070000 +0100" channel="ES: LA SEXTA">
+    <title>Remescar cosmética al instante T1 E18</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *5.8/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+  </programme>
+  <programme start="20251203070000 +0100" stop="20251203090000 +0100" channel="ES: LA SEXTA">
+    <title>Previo Aruser@s T8 E1552</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251203090000 +0100" stop="20251203110000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s T8 E1552</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251203110000 +0100" stop="20251203141000 +0100" channel="ES: LA SEXTA">
+    <title>Al rojo vivo T25/26 E3738</title>
+    <desc>Información,Debate | 2025 | +16 | *6.0/10
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251203141000 +0100" stop="20251203150000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251203150000 +0100" stop="20251203154000 +0100" channel="ES: LA SEXTA">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+  </programme>
+  <programme start="20251203154000 +0100" stop="20251203154500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251203154500 +0100" stop="20251203171500 +0100" channel="ES: LA SEXTA">
+    <title>Zapeando T25/26 E2993</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.0/10
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251203171500 +0100" stop="20251203200000 +0100" channel="ES: LA SEXTA">
+    <title>Más vale tarde T25/26 E795</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+  </programme>
+  <programme start="20251203200000 +0100" stop="20251203210000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.4/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251203210000 +0100" stop="20251203212000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.0/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+  </programme>
+  <programme start="20251203212000 +0100" stop="20251203212500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251203212500 +0100" stop="20251203213000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+  </programme>
+  <programme start="20251203213000 +0100" stop="20251203224500 +0100" channel="ES: LA SEXTA">
+    <title>El intermedio T20 E596</title>
+    <desc>Entretenimiento,Humor | 2025 | +12
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251203224500 +0100" stop="20251204000000 +0100" channel="ES: LA SEXTA">
+    <title>Cazadores de imágenes T1 · Mario Vaquerizo</title>
+    <desc>Ocio y Aficiones,Viajes | 2025 | TP | *5.6/10
+· Gotzon Mantuliz viaja a Uganda acompañado de Mario Vaquerizo.
+· País: España
+· Presenta: Gotzon Mantuliz.
+· Productora: Atresmedia, 7 y acción.</desc>
+  </programme>
+  <programme start="20251204000000 +0100" stop="20251204011500 +0100" channel="ES: LA SEXTA">
+    <title>Cazadores de imágenes T1</title>
+    <desc>Ocio y Aficiones,Viajes | 2025 | TP | *5.8/10
+· Gotzon Mantuliz recorre espectaculares parajes acompañado de un invitado conocido para vivir una expedición única, en la que la observación, la paciencia y la conexión con la naturaleza serán las claves para lograr una imagen irrepetible.
+· País: España
+· Presenta: Gotzon Mantuliz.
+· Productora: Atresmedia, 7 y acción.</desc>
+  </programme>
+  <programme start="20251204011500 +0100" stop="20251204030000 +0100" channel="ES: LA SEXTA">
+    <title>Señor, dame paciencia T1 E2</title>
+    <desc>Series,Comedia | 2021 | +12 | *5.8/10
+· Gregorio se intenta adaptar a su primer hogar “de adopción”, la casa de Alicia, una corrala de Lavapiés donde cualquier detalle debe ser votado en asamblea. Gregorio se entera de que Alicia está liada con Julio, su compañero de piso.
+· País: España
+· Reparto: Silvia Abril, Mafalda Carbonell, Jordi Sánchez, Félix Gómez, Adam Jezierski, Norma Ruiz.
+· Productora: DLO Producciones, Atresmedia Studios.</desc>
+  </programme>
+  <programme start="20251204030000 +0100" stop="20251204034000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251204034000 +0100" stop="20251204040000 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251204040000 +0100" stop="20251204050000 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251204050000 +0100" stop="20251204064500 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251204064500 +0100" stop="20251204070000 +0100" channel="ES: LA SEXTA">
+    <title>Vivara: gestionamos tu alquiler</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.4/10
+· Vivara: gestionamos tu alquiler.
+· País: España</desc>
+  </programme>
+  <programme start="20251204070000 +0100" stop="20251204090000 +0100" channel="ES: LA SEXTA">
+    <title>Previo Aruser@s T8 E1553</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251204090000 +0100" stop="20251204110000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s T8 E1553</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251204110000 +0100" stop="20251204141000 +0100" channel="ES: LA SEXTA">
+    <title>Al rojo vivo T25/26 E3739</title>
+    <desc>Información,Debate | 2025 | +16
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251204141000 +0100" stop="20251204150000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251204150000 +0100" stop="20251204154000 +0100" channel="ES: LA SEXTA">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+  </programme>
+  <programme start="20251204154000 +0100" stop="20251204154500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251204154500 +0100" stop="20251204171500 +0100" channel="ES: LA SEXTA">
+    <title>Zapeando T25/26 E2994</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251204171500 +0100" stop="20251204200000 +0100" channel="ES: LA SEXTA">
+    <title>Más vale tarde T25/26 E796</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+  </programme>
+  <programme start="20251204200000 +0100" stop="20251204210000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.4/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251204210000 +0100" stop="20251204212000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.0/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+  </programme>
+  <programme start="20251204212000 +0100" stop="20251204212500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251204212500 +0100" stop="20251204213000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+  </programme>
+  <programme start="20251204213000 +0100" stop="20251204224500 +0100" channel="ES: LA SEXTA">
+    <title>El intermedio T20 E597</title>
+    <desc>Entretenimiento,Humor | 2025 | +12 | *6.0/10
+· El Gran Wyoming, con la ayuda de sus colaboradores, analiza en clave de humor las noticias más importantes del día. El sello inconfundible del cómico sirve para completar la información desde un punto de vista más distendido e irónico.
+· País: España
+· Presenta: El Gran Wyoming, Sandra Sabatés Campos.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251204224500 +0100" stop="20251204235200 +0100" channel="ES: LA SEXTA">
+    <title>Los Borbones: una familia real · Los Borbones y Letizia</title>
+    <desc>Documentales,Historia | 2022 | +16 | *6.0/10
+· Docuserie sobre la Familia Real Española, centrándose en el reinado de Juan Carlos I.
+· País: España
+· Dirección: Ángel Gabilondo, Ana Pastor.
+· Productora: Atresmedia TV, Newtral, Exile Content Studio, Alea Media.</desc>
+  </programme>
+  <programme start="20251204235200 +0100" stop="20251205010000 +0100" channel="ES: LA SEXTA">
+    <title>Los Borbones: una familia real · Los Borbones y el futuro</title>
+    <desc>Documentales,Historia | 2022 | +16 | *10.0/10
+· Docuserie sobre la Familia Real Española, centrándose en el reinado de Juan Carlos I.
+· País: España
+· Dirección: Ángel Gabilondo, Ana Pastor.
+· Productora: Atresmedia TV, Newtral, Exile Content Studio, Alea Media.</desc>
+  </programme>
+  <programme start="20251205010000 +0100" stop="20251205024500 +0100" channel="ES: LA SEXTA">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251205024500 +0100" stop="20251205033000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251205033000 +0100" stop="20251205035000 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251205035000 +0100" stop="20251205041500 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | TP | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251205041500 +0100" stop="20251205064500 +0100" channel="ES: LA SEXTA">
+    <title>Venta Prime</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de televenta.</desc>
+  </programme>
+  <programme start="20251205064500 +0100" stop="20251205070000 +0100" channel="ES: LA SEXTA">
+    <title>Remescar cosmética al instante T1 E18</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | +12 | *5.8/10
+· Espacio de televenta donde se muestran los productos cosméticos de Remescar, se comparten trucos de belleza y cómo aplicar esos productos con una experta.</desc>
+  </programme>
+  <programme start="20251205070000 +0100" stop="20251205090000 +0100" channel="ES: LA SEXTA">
+    <title>Previo Aruser@s T8 E1554</title>
+    <desc>Entretenimiento,Humor | 2025 | +7
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251205090000 +0100" stop="20251205110000 +0100" channel="ES: LA SEXTA">
+    <title>Aruser@s T8 E1554</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Alfonso Arús y su habitual equipo de contertulianos conducen este programa de entretenimiento matinal que se centra en desgranar los temas de actualidad en tono de humor.
+· País: España
+· Dirección: Alfonso Arús.</desc>
+  </programme>
+  <programme start="20251205110000 +0100" stop="20251205141000 +0100" channel="ES: LA SEXTA">
+    <title>Al rojo vivo T25/26 E3740</title>
+    <desc>Información,Debate | 2025 | +16
+· Antonio García Ferreras presenta este espacio de debate sobre la actualidad, fundamentalmente política, y lejos de una línea editorial conservadora. Analistas, periodistas y expertos buscarán las claves de las noticias de cada día.
+· País: España
+· Dirección: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251205141000 +0100" stop="20251205150000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.2/10
+· Informativo que se emite cada mediodía, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Helena Resano es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Helena Resano.
+· Dirección: César G. Antón.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251205150000 +0100" stop="20251205154000 +0100" channel="ES: LA SEXTA">
+    <title>Jugones</title>
+    <desc>Deportes,Programa deportes | 2014 | *7.0/10
+· Informativo que repasa todas las novedades sobre la actualidad deportiva presentado por Josep Pedrerol. El programa cuenta con toda una serie de colaboradores y especialistas que analizarán y debatirán todo lo sucedido en el mundo del deporte.
+· País: España
+· Presenta: Josep Pedrerol.</desc>
+  </programme>
+  <programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251205154500 +0100" stop="20251205171500 +0100" channel="ES: LA SEXTA">
+    <title>Zapeando T25/26 E2995</title>
+    <desc>Entretenimiento,Humor | 2025 | +16
+· Espacio que comenta con humor la actualidad televisiva.
+· País: España
+· Presenta: Dani Mateo.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251205171500 +0100" stop="20251205200000 +0100" channel="ES: LA SEXTA">
+    <title>Más vale tarde T25/26 E797</title>
+    <desc>Información,Informativo | 2025 | +16
+· Espacio diario de actualidad presentado por los periodistas Cristina Pardo e Iñaki López, que busca poner orden al alud informativo actual. Honestidad, rigor y pluralidad son las máximas de este espacio de debate en directo.
+· País: España
+· Presenta: Cristina Pardo, Iñaki López.</desc>
+  </programme>
+  <programme start="20251205200000 +0100" stop="20251205210000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Noticias</title>
+    <desc>Información,Informativo | 2018 | *6.4/10
+· Informativo que se emite cada tarde, de lunes a viernes, y que presenta las noticias que han ocurrido a lo largo de la jornada con un tono social y cercano a la calle. Cristina Saavedra es la encargada de presentar este espacio de actualidad.
+· País: España
+· Presenta: Cristina Saavedra, Rodrigo Blázquez, Inés García.
+· Dirección: César G. Antón, Rodrigo Blázquez.
+· Productora: Globomedia.</desc>
+  </programme>
+  <programme start="20251205210000 +0100" stop="20251205212000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Clave</title>
+    <desc>Información,Informativo | 2020 | *6.0/10
+· Espacio informativo diario que persigue dar un valor añadido a la actualidad.
+· País: España
+· Presenta: Joaquín Castellón, Rodrigo Blázquez.</desc>
+  </programme>
+  <programme start="20251205212000 +0100" stop="20251205212500 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Meteo</title>
+    <desc>Información,Meteorología | 2011 | *6.2/10
+· Tras el informativo, "laSexta Meteo" ofrecerá al espectador una información meteorológica cercana y directa, así como todos los aspectos que afectan al medio ambiente de nuestro planeta.
+· País: España
+· Presenta: Isabel Zubiaurre, Francisco Cacho, Joanna Ivars.</desc>
+  </programme>
+  <programme start="20251205212500 +0100" stop="20251205213000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Deportes</title>
+    <desc>Información,Deportes | 2009 | *5.8/10
+· Conducido por Carlota Reig, este espacio ofrece la más completa información deportiva.
+· País: España
+· Presenta: Carlota Reig.</desc>
+  </programme>
+  <programme start="20251205213000 +0100" stop="20251205223000 +0100" channel="ES: LA SEXTA">
+    <title>laSexta Columna T15</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Espacio que emite un reportaje que analiza en profundidad un tema de máxima actualidad. Cada entrega, con una periodicidad determinada por la actualidad, vendrá marcada por el estilo dinámico e incisivo característico de la cadena.
+· País: España
+· Presenta: Antonio G. Ferreras.</desc>
+  </programme>
+  <programme start="20251205223000 +0100" stop="20251206024000 +0100" channel="ES: LA SEXTA">
+    <title>Equipo de investigación T17</title>
+    <desc>Información,Reportaje | 2025 | +16 | *6.0/10
+· Gloria Serra presenta este programa semanal que ofrece diferentes reportajes de investigación periodística centrados en temas de actualidad.
+· País: España
+· Presenta: Glòria Serra.
+· Productora: Antena 3 Televisión.</desc>
+  </programme>
+  <programme start="20251206024000 +0100" stop="20251206032000 +0100" channel="ES: LA SEXTA">
+    <title>Pokerstars casino</title>
+    <desc>Deportes,Programa deportes | 2022 | +18 | *5.6/10
+· El programa trae cada día toda la emoción de su ruleta en vivo, Spin &amp; Win, una versión exclusiva del clásico juego de casino.
+· País: España
+· Presenta: Paco González.</desc>
+  </programme>
+  <programme start="20251206032000 +0100" stop="20251206034000 +0100" channel="ES: LA SEXTA">
+    <title>Pazy: Que te recuerden como has vivido</title>
+    <desc>Entretenimiento | 2024 | TP | *6.2/10
+· Pazy: Que te recuerden como has vivido.
+· País: España</desc>
+  </programme>
+  <programme start="20251206034000 +0100" stop="20251206044500 +0100" channel="ES: LA SEXTA">
+    <title>Galería del coleccionista</title>
+    <desc>Ocio y Aficiones,Televenta | 2021 | *6.0/10
+· Espacio comercial.
+· País: España</desc>
+  </programme>
+  <programme start="20251129070000 +0100" stop="20251129073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1 E40</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251129073000 +0100" stop="20251129080500 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3 E113</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *6.0/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251129080500 +0100" stop="20251129083500 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3 E114</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *6.0/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251129083500 +0100" stop="20251129094500 +0100" channel="ES: CUATRO">
+    <title>Volando voy: Parque de Redes</title>
+    <desc>Documentales,Viajes | 2018 | +7 | *6.0/10
+· El programa viaja al Parque Natural de Redes para recuperar un antiguo camino real.
+· País: España
+· Presenta: Jesús Calleja.</desc>
+  </programme>
+  <programme start="20251129094500 +0100" stop="20251129095000 +0100" channel="ES: CUATRO">
+    <title>Mil Palabras &amp; + Woman T1 E14</title>
+    <desc>Cultural/Educativo,Literatura | 2025 | TP | *6.0/10
+· Programa que presenta las últimas novedades para la mujer en el mundo de la literatura.
+· País: España</desc>
+  </programme>
+  <programme start="20251129095000 +0100" stop="20251129112000 +0100" channel="ES: CUATRO">
+    <title>Volando voy T10 · La Axarquía (Málaga)</title>
+    <desc>Ocio y Aficiones,Viajes | 2024 | +7 | *6.0/10
+· Espacio que redescubre los paisajes de España utilizando la más avanzada tecnología.
+· País: España
+· Presenta: Jesús Calleja.</desc>
+  </programme>
+  <programme start="20251129112000 +0100" stop="20251129124000 +0100" channel="ES: CUATRO">
+    <title>Viajeros Cuatro: España, sin ir más lejos · Málaga</title>
+    <desc>Documentales,Viajes | 2020 | +7 | *6.6/10
+· El equipo recorre los desfiladeros de los Gaitanes y Gaitanejo a través de la vertiginosa pasarela del Caminito del Rey, surca en kayak el pantano de El Chorro, visita emblemáticas localizaciones de la serie 'Verano Azul' y mucho más.
+· País: España
+· Dirección: Nacho Medina.
+· Productora: Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251129124000 +0100" stop="20251129140000 +0100" channel="ES: CUATRO">
+    <title>Viajeros Cuatro: Malta</title>
+    <desc>Documentales,Viajes | 2024 | +12 | *5.8/10
+· El programa se desplaza hasta Malta, el país más pequeño de la Unión Europea. Situado en el centro del Mediterráneo, con un clima increíble todo el año y una impresionante historia.
+· País: España</desc>
+  </programme>
+  <programme start="20251129140000 +0100" stop="20251129145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro fin de semana</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Roberto Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
+· País: España
+· Presenta: Roberto Arce, Marta Reyero.</desc>
+  </programme>
+  <programme start="20251129145500 +0100" stop="20251129152000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía fin de semana T3 E333</title>
+    <desc>Deportes,Programa deportes | 2025 | *7.0/10
+· Espacio que repasa la actualidad futbolística.
+· País: España
+· Presenta: Joseba Larrañaga.</desc>
+  </programme>
+  <programme start="20251129152000 +0100" stop="20251129153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251129153000 +0100" stop="20251129180000 +0100" channel="ES: CUATRO">
+    <title>Harry Potter y el prisionero de Azkaban</title>
+    <desc>Cine,Fantástico | 2004 | +12 | *8.4/10
+· Harry, Ron y Hermione regresan al Colegio Hogwarts, donde se adentran en el misterio que rodea a un preso fugado que supone una peligrosa amenaza.
+· País: Estados Unidos y Reino Unido
+· Dirección: Alfonso Cuarón.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon, Maggie Smith, Robbie Coltrane, Gary Oldman, Alan Rickman, Emma Thompson, David Thewlis, Tom Felton.
+· Guion: Steve Kloves.
+· Música: John Williams.
+· Productora: Warner Bros. Pictures.</desc>
+  </programme>
+  <programme start="20251129180000 +0100" stop="20251129200500 +0100" channel="ES: CUATRO">
+    <title>Rémi, una aventura extraordinaria</title>
+    <desc>Cine,Cine familiar | 2018 | +7 | *8.2/10
+· Un misterioso anciano llamado Rémi narra la increíble y fascinante historia de su infancia: el relato arranca cuando descubre, a muy temprana edad, que es adoptado.
+· País: Bélgica y Francia
+· Dirección: Antoine Blossier.
+· Reparto: Daniel Auteuil, Maleaume Paquin, Virginie Ledoyen, Jonathan Zaccaï, Jacques Perrin, Ludivine Sagnier, Zoe Boyle, Albane Masson.
+· Guion: Antoine Blossier.
+· Música: Romaric Laurence.
+· Producción: Eric Jehelmann, Philippe Rousselet.
+· Productora: Jerico, TF1 Films Production, TF1 Studio.</desc>
+  </programme>
+  <programme start="20251129200500 +0100" stop="20251129205500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro fin de semana</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Roberto Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
+· País: España
+· Presenta: Roberto Arce, Marta Reyero.</desc>
+  </programme>
+  <programme start="20251129205500 +0100" stop="20251129210500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche fin de semana T3 E326</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· Espacio de actualidad futbolística.
+· País: España
+· Presenta: Joseba Larrañaga.</desc>
+  </programme>
+  <programme start="20251129210500 +0100" stop="20251129211000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251129211000 +0100" stop="20251129220000 +0100" channel="ES: CUATRO">
+    <title>First dates T10 E220</title>
+    <desc>Entretenimiento,Telerrealidad | 2024 | +12 | *5.0/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251129220000 +0100" stop="20251130000000 +0100" channel="ES: CUATRO">
+    <title>Red de traición</title>
+    <desc>Cine,Thriller | 2024 | +16 | *5.8/10
+· Ben Malloy y su esposa Bella están de misión para la CIA cuando una explosión de gas mata a Bella. Ben comienza a investigar lo sucedido y pronto descubre que la muerte de su esposa no fue un accidente.
+· País: Estados Unidos, Hungría y Reino Unido
+· Dirección: Jesse V. Johnson.
+· Reparto: Aaron Eckhart, Olga Kurylenko, Alex Pettyfer, Daniel Bernhardt, Chris Petrovski, Nick Moran, Kris Johnson.
+· Guion: George Mahaffey.
+· Música: Sean Murray.
+· Producción: Steve Lee Jones, Matthew Shreder.
+· Productora: Concourse Media, Bee Holder Productions.</desc>
+  </programme>
+  <programme start="20251130000000 +0100" stop="20251130024000 +0100" channel="ES: CUATRO">
+    <title>Amenaza terrorista · Amenaza Terrorista</title>
+    <desc>Cine,Acción | 2012 | +16 | *6.4/10
+· Ewan, un agente del servicio secreto británico, recibe la misión de capturar y eliminar al terrorista que está detrás de los dos últimos atentados: un joven estudiante universitario de origen árabe que se hace llamar Ash.
+· País: Reino Unido
+· Dirección: Hadi Hajaig.
+· Reparto: Sean Bean, Charlotte Rampling, Abhin Galeya, Tuppence Middleton, James Fox, Tom Burke, Peter Polycarpou.
+· Guion: Hadi Hajaig.
+· Música: Simon Lambros.
+· Producción: Hadi Hajaig.
+· Productora: The UK Film Studio PLC.</desc>
+  </programme>
+  <programme start="20251130024000 +0100" stop="20251130035500 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T7 · Se come o no se come y casas malditas</title>
+    <desc>Información,Reportaje | 2020 | +12 | *6.2/10
+· Productos como el aloe vera o el carbón activado se han puesto de moda gracias a las redes y los influencers. El programa investiga las verdaderas bondades de estos cosméticos.
+· País: España</desc>
+  </programme>
+  <programme start="20251130035500 +0100" stop="20251130050000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T7 · Covid-19: Reinvención empresarial</title>
+    <desc>Información,Reportaje | 2020 | +12 | *5.6/10
+· La pandemia ha dejado una gran crisis económica y las empresas y emprendedores están buscando fórmulas sorprendentes para salir a flote. ¿Cuáles son?, ¿Dónde podrían estar las salidas para salvar la situación?
+· País: España</desc>
+  </programme>
+  <programme start="20251130050000 +0100" stop="20251130070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251130070000 +0100" stop="20251130073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1 E32</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251130073000 +0100" stop="20251130080000 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3 E116</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.6/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251130080000 +0100" stop="20251130083500 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3 E117</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251130083500 +0100" stop="20251130095000 +0100" channel="ES: CUATRO">
+    <title>Volando voy T8 · Pallars Sobirá (Lleida)</title>
+    <desc>Ocio y Aficiones,Viajes | 2022 | +7 | *6.2/10
+· El Pallars Sobirá (Lleida) es una comarca del pirineo catalán conocida por sus amplios valles y sus impresionantes picos, como el de La Pica d’Estats, el punto más alto de Cataluña, con 3.143 metros de altura.
+· País: España
+· Presenta: Jesús Calleja.</desc>
+  </programme>
+  <programme start="20251130095000 +0100" stop="20251130100000 +0100" channel="ES: CUATRO">
+    <title>Iumiuky T1 E295</title>
+    <desc>Ocio y Aficiones,Naturaleza | 2025 | TP
+· Espacio en el que diversos expertos ofrecen consejos para el cuidado de las mascotas.
+· País: España</desc>
+  </programme>
+  <programme start="20251130100000 +0100" stop="20251130112500 +0100" channel="ES: CUATRO">
+    <title>Volando voy T10 · Sierra de Urbasa y Andia (Navarra)</title>
+    <desc>Ocio y Aficiones,Viajes | 2024 | +7 | *5.4/10
+· El programa viaja hasta el Valle de las Améscoas, en la Sierra de Urbasa y Andía (Navarra), para homenajear por todo lo alto a una de las deportistas más importantes de la historia de la región: Maite Ruiz de Larramendi.
+· País: España
+· Presenta: Jesús Calleja.</desc>
+  </programme>
+  <programme start="20251130112500 +0100" stop="20251130124000 +0100" channel="ES: CUATRO">
+    <title>Viajeros Cuatro: Navarra</title>
+    <desc>Documentales,Viajes | 2021 | +12 | *7.0/10
+· El programa recorre los rincones más privilegiados de Pamplona y se adentra en el Valle de Baztán y la Selva de Irati en su recorrido por Navarra.
+· País: España</desc>
+  </programme>
+  <programme start="20251130124000 +0100" stop="20251130140000 +0100" channel="ES: CUATRO">
+    <title>Viajeros Cuatro: Cáceres</title>
+    <desc>Documentales,Viajes | 2021 | +7 | *7.0/10
+· El actor Daniel Holguín, el cantante Huecco y la influencer Invitada Perfecta guían al equipo encabezado por Estefanía Masó en su recorrido por la provincia extremeña.
+· País: España</desc>
+  </programme>
+  <programme start="20251130140000 +0100" stop="20251130145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro fin de semana</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Roberto Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
+· País: España
+· Presenta: Roberto Arce, Marta Reyero.</desc>
+  </programme>
+  <programme start="20251130145500 +0100" stop="20251130152000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía fin de semana T3 E334</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio que repasa la actualidad futbolística.
+· País: España
+· Presenta: Joseba Larrañaga.</desc>
+  </programme>
+  <programme start="20251130152000 +0100" stop="20251130153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251130153000 +0100" stop="20251130182000 +0100" channel="ES: CUATRO">
+    <title>Harry Potter y el cáliz de fuego</title>
+    <desc>Cine,Fantástico | 2005 | +12 | *8.2/10
+· Este año, Hogwarts albergará una competición entre tres colegios de magia. Mientras la cicatriz de Harry arde, lo que indica la presencia maligna de Lord Voldemort, el Cáliz de Fuego selecciona a un último participante: Harry Potter.
+· País: Estados Unidos y Reino Unido
+· Dirección: Mike Newell.
+· Reparto: Daniel Radcliffe, Emma Watson, Rupert Grint, Michael Gambon, Maggie Smith, Robbie Coltrane, Gary Oldman, Alan Rickman, Miranda Richardson, Brendan Gleeson, Stanislav Ianevski, Tom Felton, Ralph Fiennes.
+· Guion: Steve Kloves.
+· Música: Patrick Doyle.
+· Producción: David Heyman.
+· Productora: Warner Bros. Pictures, Patalex IV Productions Limited, Heyday Films.</desc>
+  </programme>
+  <programme start="20251130182000 +0100" stop="20251130200500 +0100" channel="ES: CUATRO">
+    <title>Odd Thomas, cazador de fantasmas</title>
+    <desc>Cine,Thriller | 2013 | +12 | *7.0/10
+· Odd Thomas, un cocinero de comida rápida de un pequeño pueblo del desierto californiano, posee un particular don: es capaz de hablar con los muertos. Gracias a esa facultad sobrenatural, Odd ha ayudado en muchas ocasiones al jefe de la policía local.
+· País: Estados Unidos y Reino Unido
+· Dirección: Stephen Sommers.
+· Reparto: Anton Yelchin, Willem Dafoe, Addison Timlin, Gugu Mbatha-Raw, Nico Tortorella, Patton Oswalt.
+· Guion: Stephen Sommers.
+· Música: John Swihart.
+· Productora: The Sommers Company.</desc>
+  </programme>
+  <programme start="20251130200500 +0100" stop="20251130210000 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro fin de semana</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Roberto Arce y Marta Reyero presentan el informativo de Cuatro durante el fin de semana, repasando las últimas noticias sucedidas en todos los ámbitos.
+· País: España
+· Presenta: Roberto Arce, Marta Reyero.</desc>
+  </programme>
+  <programme start="20251130210000 +0100" stop="20251130211000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche fin de semana T3 E327</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio de actualidad futbolística.
+· País: España
+· Presenta: Joseba Larrañaga.</desc>
+  </programme>
+  <programme start="20251130211000 +0100" stop="20251130212000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251130212000 +0100" stop="20251130214500 +0100" channel="ES: CUATRO">
+    <title>Cuarto Milenio: Arrancando la Nave T1 E12</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2025 | +12 | *6.0/10
+· Arranca la nave de Cuarto Milenio con novedades para esta nueva temporada.
+· País: España</desc>
+  </programme>
+  <programme start="20251130214500 +0100" stop="20251201002500 +0100" channel="ES: CUATRO">
+    <title>Cuarto Milenio T21 E13</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2025 | +12 | *6.6/10
+· Íker Jiménez y Carmen Porter acercan a los espectadores el inquietante mundo del misterio.
+· País: España</desc>
+  </programme>
+  <programme start="20251201002500 +0100" stop="20251201021000 +0100" channel="ES: CUATRO">
+    <title>Cuarto Milenio T21 E7</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2025 | +12 | *6.4/10
+· Íker Jiménez y Carmen Porter acercan a los espectadores el inquietante mundo del misterio.
+· País: España</desc>
+  </programme>
+  <programme start="20251201021000 +0100" stop="20251201051000 +0100" channel="ES: CUATRO">
+    <title>DIRECTO Jornada 13: Washington Commanders - Denver Broncos T25/26 · NFL</title>
+    <desc>Deportes,Fútbol americano | 2025 | *6.0/10
+· La NFL es la liga de fútbol americano estadounidense.
+· País: Estados Unidos</desc>
+  </programme>
+  <programme start="20251201051000 +0100" stop="20251201070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251201070000 +0100" stop="20251201073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251201073000 +0100" stop="20251201075500 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251201075500 +0100" stop="20251201084000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra</title>
+    <desc>Series,Acción | 2012 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251201084000 +0100" stop="20251201093500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.4/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251201093500 +0100" stop="20251201103000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.4/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251201103000 +0100" stop="20251201140000 +0100" channel="ES: CUATRO">
+    <title>En boca de todos T5</title>
+    <desc>Información,Magacín | 2025 | +16 | *6.0/10
+· Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
+  </programme>
+  <programme start="20251201140000 +0100" stop="20251201145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.
+· País: España
+· Presenta: Alba Lago.</desc>
+  </programme>
+  <programme start="20251201145500 +0100" stop="20251201151000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *4.4/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Manu Carreño.</desc>
+  </programme>
+  <programme start="20251201151000 +0100" stop="20251201153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251201153000 +0100" stop="20251201183000 +0100" channel="ES: CUATRO">
+    <title>Todo es mentira T7</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
+  </programme>
+  <programme start="20251201183000 +0100" stop="20251201200000 +0100" channel="ES: CUATRO">
+    <title>Lo sabe, no lo sabe T2</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones.
+· Productora: Mediaset España.</desc>
+  </programme>
+  <programme start="20251201200000 +0100" stop="20251201204500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Diego Losada se encarga de conducir el espacio.
+· País: España
+· Presenta: Diego Losada.</desc>
+  </programme>
+  <programme start="20251201204500 +0100" stop="20251201205500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
+  </programme>
+  <programme start="20251201205500 +0100" stop="20251201210500 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251201210500 +0100" stop="20251201215500 +0100" channel="ES: CUATRO">
+    <title>First dates T10</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.4/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251201215500 +0100" stop="20251201230000 +0100" channel="ES: CUATRO">
+    <title>First dates T11</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +12 | *6.2/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251201230000 +0100" stop="20251202005500 +0100" channel="ES: CUATRO">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251202005500 +0100" stop="20251202015500 +0100" channel="ES: CUATRO">
+    <title>Objetivo: París T1</title>
+    <desc>Series,Acción | 2024 | +16 | *6.0/10
+· Un grupo terrorista liderado por un exlegionario francés irrumpe en un evento en la embajada británica en París. Su objetivo es el ministro de Defensa, pero su jefe de seguridad, Vincent Taleb, y una agente del MI6, Zara Taylor, frustran sus planes.
+· País: Francia y Reino Unido
+· Dirección: Oded Ruskin, Hans Herbots.
+· Reparto: Ben Addis, Tewfik Jallab, Ana Ularu, Ritu Arya, Sean Harris, Camille Rutherford, Emmanuelle Bercot, Nathan Willcocks.
+· Productora: Canal+, G-BASE, Millennium Media, StudioCanal, Urban Myth Films.</desc>
+  </programme>
+  <programme start="20251202015500 +0100" stop="20251202032500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque Madrugada</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *6.0/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
+· País: España
+· Presenta: Ricardo Reyes.</desc>
+  </programme>
+  <programme start="20251202032500 +0100" stop="20251202043500 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251202043500 +0100" stop="20251202054500 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251202054500 +0100" stop="20251202070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251202070000 +0100" stop="20251202073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251202073000 +0100" stop="20251202080000 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251202080000 +0100" stop="20251202084500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.4/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251202084500 +0100" stop="20251202093500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.4/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251202093500 +0100" stop="20251202103000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.4/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251202103000 +0100" stop="20251202140000 +0100" channel="ES: CUATRO">
+    <title>En boca de todos T5</title>
+    <desc>Información,Magacín | 2025 | +16 | *6.0/10
+· Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
+  </programme>
+  <programme start="20251202140000 +0100" stop="20251202145000 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.
+· País: España
+· Presenta: Alba Lago.</desc>
+  </programme>
+  <programme start="20251202145000 +0100" stop="20251202151000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *4.4/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Manu Carreño.</desc>
+  </programme>
+  <programme start="20251202151000 +0100" stop="20251202153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251202153000 +0100" stop="20251202183000 +0100" channel="ES: CUATRO">
+    <title>Todo es mentira T7</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
+  </programme>
+  <programme start="20251202183000 +0100" stop="20251202200000 +0100" channel="ES: CUATRO">
+    <title>Lo sabe, no lo sabe T2</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones.
+· Productora: Mediaset España.</desc>
+  </programme>
+  <programme start="20251202200000 +0100" stop="20251202204500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Diego Losada se encarga de conducir el espacio.
+· País: España
+· Presenta: Diego Losada.</desc>
+  </programme>
+  <programme start="20251202204500 +0100" stop="20251202205500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
+  </programme>
+  <programme start="20251202205500 +0100" stop="20251202210500 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251202210500 +0100" stop="20251202215000 +0100" channel="ES: CUATRO">
+    <title>First dates T10</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.4/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251202215000 +0100" stop="20251202231000 +0100" channel="ES: CUATRO">
+    <title>First dates T11</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +12 | *6.2/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251202231000 +0100" stop="20251203015000 +0100" channel="ES: CUATRO">
+    <title>Código 10</title>
+    <desc>Documentales,Actualidad | 2025 | +16 | *6.0/10
+· Programa de actualidad presentado por David Aleman y Nacho Abad. El espacio trata los crímenes y sucesos más destacados de la actualidad y casos históricos que han conmocionado a la sociedad española.
+· País: España
+· Presenta: David Alemán, Nacho Abad.
+· Productora: Mediaset España, Producciones Mandarina.</desc>
+  </programme>
+  <programme start="20251203015000 +0100" stop="20251203032000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque Madrugada</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *6.0/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
+· País: España
+· Presenta: Ricardo Reyes.</desc>
+  </programme>
+  <programme start="20251203032000 +0100" stop="20251203042500 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251203042500 +0100" stop="20251203052500 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251203052500 +0100" stop="20251203070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251203070000 +0100" stop="20251203073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251203073000 +0100" stop="20251203080000 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251203080000 +0100" stop="20251203084500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251203084500 +0100" stop="20251203092500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251203092500 +0100" stop="20251203103000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T18</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251203103000 +0100" stop="20251203140000 +0100" channel="ES: CUATRO">
+    <title>En boca de todos T5</title>
+    <desc>Información,Magacín | 2025 | +16 | *6.0/10
+· Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
+  </programme>
+  <programme start="20251203140000 +0100" stop="20251203145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.
+· País: España
+· Presenta: Alba Lago.</desc>
+  </programme>
+  <programme start="20251203145500 +0100" stop="20251203151000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *4.4/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Manu Carreño.</desc>
+  </programme>
+  <programme start="20251203151000 +0100" stop="20251203153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251203153000 +0100" stop="20251203183000 +0100" channel="ES: CUATRO">
+    <title>Todo es mentira T7</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
+  </programme>
+  <programme start="20251203183000 +0100" stop="20251203200000 +0100" channel="ES: CUATRO">
+    <title>Lo sabe, no lo sabe T2</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones.
+· Productora: Mediaset España.</desc>
+  </programme>
+  <programme start="20251203200000 +0100" stop="20251203205500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Diego Losada se encarga de conducir el espacio.
+· País: España
+· Presenta: Diego Losada.</desc>
+  </programme>
+  <programme start="20251203205500 +0100" stop="20251203210000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
+  </programme>
+  <programme start="20251203210000 +0100" stop="20251203211500 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251203211500 +0100" stop="20251203215500 +0100" channel="ES: CUATRO">
+    <title>First dates T10</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.4/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251203215500 +0100" stop="20251203230000 +0100" channel="ES: CUATRO">
+    <title>First dates T11</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +12 | *6.2/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251203230000 +0100" stop="20251204004000 +0100" channel="ES: CUATRO">
+    <title>Callejeros</title>
+    <desc>Documentales,Actualidad | 2025 | +12 | *6.0/10
+· Un nuevo equipo de periodistas se lanza a la calle en busca de nuevas y sorprendentes historias. El programa emitirá reportajes de temática social narrados en primera persona y cámara en mano.
+· País: España
+· Dirección: Nacho Medina.
+· Productora: Señor Mono.</desc>
+  </programme>
+  <programme start="20251204004000 +0100" stop="20251204020000 +0100" channel="ES: CUATRO">
+    <title>Callejeros</title>
+    <desc>Documentales,Actualidad | 2013 | +16 | *6.2/10
+· Espacio que emite reportajes de temática social narrados en primera persona y cámara en mano. El programa recorre cada semana la calle para dar voz a personas e historias invisibles en otros medios desde el respeto, la dignidad y el rigor.
+· País: España
+· Dirección: Carolina Cubillo.
+· Productora: Molinos de Papel.</desc>
+  </programme>
+  <programme start="20251204020000 +0100" stop="20251204030000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque Madrugada</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *6.0/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
+· País: España
+· Presenta: Ricardo Reyes.</desc>
+  </programme>
+  <programme start="20251204030000 +0100" stop="20251204041000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +16 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251204041000 +0100" stop="20251204050000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +16 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251204050000 +0100" stop="20251204070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251204070000 +0100" stop="20251204073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251204073000 +0100" stop="20251204080000 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251204080000 +0100" stop="20251204084000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251204084000 +0100" stop="20251204093000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251204093000 +0100" stop="20251204103000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251204103000 +0100" stop="20251204140000 +0100" channel="ES: CUATRO">
+    <title>En boca de todos T5</title>
+    <desc>Información,Magacín | 2025 | +16 | *6.0/10
+· Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
+  </programme>
+  <programme start="20251204140000 +0100" stop="20251204145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.
+· País: España
+· Presenta: Alba Lago.</desc>
+  </programme>
+  <programme start="20251204145500 +0100" stop="20251204151000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *4.4/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Manu Carreño.</desc>
+  </programme>
+  <programme start="20251204151000 +0100" stop="20251204153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251204153000 +0100" stop="20251204183000 +0100" channel="ES: CUATRO">
+    <title>Todo es mentira T7</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
+  </programme>
+  <programme start="20251204183000 +0100" stop="20251204200000 +0100" channel="ES: CUATRO">
+    <title>Lo sabe, no lo sabe T2</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones.
+· Productora: Mediaset España.</desc>
+  </programme>
+  <programme start="20251204200000 +0100" stop="20251204204500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Diego Losada se encarga de conducir el espacio.
+· País: España
+· Presenta: Diego Losada.</desc>
+  </programme>
+  <programme start="20251204204500 +0100" stop="20251204205500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
+  </programme>
+  <programme start="20251204205500 +0100" stop="20251204210500 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251204210500 +0100" stop="20251204215500 +0100" channel="ES: CUATRO">
+    <title>First dates T10</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.4/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251204215500 +0100" stop="20251204230000 +0100" channel="ES: CUATRO">
+    <title>First dates T11</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +12 | *6.2/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251204230000 +0100" stop="20251205020000 +0100" channel="ES: CUATRO">
+    <title>Horizonte T7</title>
+    <desc>Información,Informativo | 2025 | +16 | *6.4/10
+· Un espacio que analiza la actualidad y que pone el foco en el futuro a corto plazo.
+· País: España
+· Presenta: Íker Jiménez.
+· Productora: Plural Entertainment.</desc>
+  </programme>
+  <programme start="20251205020000 +0100" stop="20251205023000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque Madrugada</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *6.0/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes en una mesa de especialistas en información deportiva. El programa cobertura a la información de los encuentros de liga y competiciones internacionales.
+· País: España
+· Presenta: Ricardo Reyes.</desc>
+  </programme>
+  <programme start="20251205023000 +0100" stop="20251205032500 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque Quarterback</title>
+    <desc>Deportes,Programa deportes | 2025 | +18 | *5.8/10
+· La NFL llega al público en abierto. Este espacio muestra de una forma divulgativa la actualidad de la liga profesional de fútbol americano estadounidense.
+· País: España</desc>
+  </programme>
+  <programme start="20251205032500 +0100" stop="20251205044000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251205044000 +0100" stop="20251205055000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *6.0/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251205055000 +0100" stop="20251205070000 +0100" channel="ES: CUATRO">
+    <title>Puro Cuatro</title>
+    <desc>Música,Programa de música | 2021 | TP | *6.2/10
+· Espacio que actúa a modo de escaparate de la música que suena en los programas de Cuatro.
+· País: España</desc>
+  </programme>
+  <programme start="20251205070000 +0100" stop="20251205073000 +0100" channel="ES: CUATRO">
+    <title>Love Shopping TV Cuatro T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251205073000 +0100" stop="20251205080000 +0100" channel="ES: CUATRO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251205080000 +0100" stop="20251205084500 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra</title>
+    <desc>Series,Acción | 2013 | +12 | *6.2/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251205084500 +0100" stop="20251205093000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T19</title>
+    <desc>Series,Acción | 2014 | +12 | *5.8/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251205093000 +0100" stop="20251205103000 +0100" channel="ES: CUATRO">
+    <title>Alerta Cobra T19</title>
+    <desc>Series,Acción | 2014 | +12 | *5.8/10
+· Serie que muestra las vivencias de una brigada especial de carreteras.
+· País: Alemania
+· Reparto: René Steinke, Erdogan Atalay, Charlotte Schwab, Gottfried Vollmer.
+· Productora: RTL, Action Concept GmbH.</desc>
+  </programme>
+  <programme start="20251205103000 +0100" stop="20251205140000 +0100" channel="ES: CUATRO">
+    <title>En boca de todos T5</title>
+    <desc>Información,Magacín | 2025 | +16 | *6.0/10
+· Programa diario de actualidad que acerca a los espectadores las noticias principales.
+· País: España
+· Presenta: Nacho Abad.</desc>
+  </programme>
+  <programme start="20251205140000 +0100" stop="20251205145500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Alba Lago repasa cada sobremesa las últimas noticias que marcan la actualidad informativa mundial. Un análisis con rigor de toda la realidad política, social y cultural.
+· País: España
+· Presenta: Alba Lago.</desc>
+  </programme>
+  <programme start="20251205145500 +0100" stop="20251205151000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro mediodía. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *4.4/10
+· Espacio que analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Manu Carreño.</desc>
+  </programme>
+  <programme start="20251205151000 +0100" stop="20251205153000 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251205153000 +0100" stop="20251205183000 +0100" channel="ES: CUATRO">
+    <title>Todo es mentira T7</title>
+    <desc>Entretenimiento,Humor | 2025 | +16 | *6.2/10
+· Espacio que analiza las noticias falsas y los bulos que inundan las páginas de los diarios y las redes sociales. Risto Mejide y su equipo ponen humor a este ácido análisis de la actualidad.
+· País: España
+· Presenta: Risto Mejide.</desc>
+  </programme>
+  <programme start="20251205183000 +0100" stop="20251205200000 +0100" channel="ES: CUATRO">
+    <title>Lo sabe, no lo sabe T1</title>
+    <desc>Entretenimiento,Concurso | 2024 | TP | *6.2/10
+· Xuso Jones recorre la geografía española para hacer participar a la ciudadanía en un concurso de preguntas, en el que pueden ganar hasta 50.000 euros.
+· País: España
+· Presenta: Xuso Jones, Juanra Bonet.
+· Productora: Mediaset España, Mediaset, Mandarina.</desc>
+  </programme>
+  <programme start="20251205200000 +0100" stop="20251205205500 +0100" channel="ES: CUATRO">
+    <title>Noticias Cuatro</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino de Cuatro que ofrece las noticias tanto nacionales como internacionales, y que pretende ser una ventana abierta a la actualidad, la reflexión y el análisis. Diego Losada se encarga de conducir el espacio.
+· País: España
+· Presenta: Diego Losada.</desc>
+  </programme>
+  <programme start="20251205205500 +0100" stop="20251205210000 +0100" channel="ES: CUATRO">
+    <title>ElDesmarque de Cuatro noche. Lunes a viernes</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· Espacio analiza los temas más relevantes de la actualidad futbolística y de otros deportes. Además, "El Desmarque de Cuatro" ofrece imágenes curiosas del universo deportivo.
+· País: España
+· Presenta: Ricardo Reyes, Luis Alberto Vaquero.</desc>
+  </programme>
+  <programme start="20251205210000 +0100" stop="20251205211500 +0100" channel="ES: CUATRO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251205211500 +0100" stop="20251205220000 +0100" channel="ES: CUATRO">
+    <title>First dates T10</title>
+    <desc>Entretenimiento,Telerrealidad | 2023 | +12 | *6.4/10
+· Espacio que organiza citas entre solteros en un restaurante único y especial.
+· País: España
+· Presenta: Carlos Sobera.
+· Productora: Cuatro, Warner Bros ITVP.</desc>
+  </programme>
+  <programme start="20251205220000 +0100" stop="20251206005500 +0100" channel="ES: CUATRO">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251206005500 +0100" stop="20251206035000 +0100" channel="ES: CUATRO">
+    <title>Cine</title>
+    <desc>· Programa por determinar...</desc>
+  </programme>
+  <programme start="20251206035000 +0100" stop="20251206041000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *5.8/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251206041000 +0100" stop="20251206052000 +0100" channel="ES: CUATRO">
+    <title>En el punto de mira T6</title>
+    <desc>Información,Reportaje | 2019 | +12 | *5.8/10
+· Programa de investigación en el que se muestran todas las caras de temas de actualidad.
+· País: España</desc>
+  </programme>
+  <programme start="20251129064000 +0100" stop="20251129070000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1 E33</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251129070000 +0100" stop="20251129073000 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E15</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251129073000 +0100" stop="20251129110000 +0100" channel="ES: TELECINCO">
+    <title>Got Talent España T10 · Final</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *6.0/10
+· La décima temporada de ‘Got Talent España’ llega a su fin con la emisión de su Gran Final.
+· País: España
+· Presenta: Santi Millán.</desc>
+  </programme>
+  <programme start="20251129110000 +0100" stop="20251129120500 +0100" channel="ES: TELECINCO">
+    <title>Más Que Coches T29 E48</title>
+    <desc>Deportes,Programa deportes | 2025 | TP | *6.0/10
+· Informativo que abarca todos los ámbitos del sector del motor: deporte, consumo o salones.
+· País: España
+· Dirección: Gonzalo Serrano.</desc>
+  </programme>
+  <programme start="20251129120500 +0100" stop="20251129131500 +0100" channel="ES: TELECINCO">
+    <title>Got Talent España. Momentazos T10 E14</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *6.6/10
+· La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España</desc>
+  </programme>
+  <programme start="20251129131500 +0100" stop="20251129150000 +0100" channel="ES: TELECINCO">
+    <title>¡Vaya fama! T1 E25</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2025 | +16
+· Espacio que analiza las noticias de mayor impacto en el mundo del corazón con exclusivas, reportajes, investigaciones, conexiones en directo y los momentazos que protagonizan en el plató su equipo de colaboradores y reporteros.
+· País: España
+· Presenta: Cristina Lasvignes, Fran Ramírez.
+· Productora: Cuarzo Producciones.</desc>
+  </programme>
+  <programme start="20251129150000 +0100" stop="20251129153000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <desc>Información,Informativo | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251129153000 +0100" stop="20251129154500 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco fin de semana T3 E323</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+  </programme>
+  <programme start="20251129154500 +0100" stop="20251129160000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251129160000 +0100" stop="20251129210000 +0100" channel="ES: TELECINCO">
+    <title>¡Fiesta! T5 E23</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16
+· Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+· País: España
+· Presenta: Emma García.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251129210000 +0100" stop="20251129213000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Fin de Semana noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.</desc>
+  </programme>
+  <programme start="20251129213000 +0100" stop="20251129214000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Fin de Semana Noche T3 E323</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+  </programme>
+  <programme start="20251129214000 +0100" stop="20251129220000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251129220000 +0100" stop="20251130020000 +0100" channel="ES: TELECINCO">
+    <title>Bailando con las Estrellas T2 E12</title>
+    <desc>Entretenimiento,Concurso | 2025 | +7
+· Jorge González, Nerea Rodríguez, Anabel Pantoja y Nona Sobo, con sus respectivos maestros bailarines, realizarán tres coreografías cada uno para impresionar a público y jurado y alzarse con la victoria.
+· País: España
+· Presenta: Jesús Vázquez, Valeria Mazza.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251130020000 +0100" stop="20251130022500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2 E332</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251130022500 +0100" stop="20251130024000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1 E12</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *5.8/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251130024000 +0100" stop="20251130024500 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251130024500 +0100" stop="20251130031500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E40</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251130031500 +0100" stop="20251130034500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E26</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251130034500 +0100" stop="20251130070500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251130070500 +0100" stop="20251130071500 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251130071500 +0100" stop="20251130074500 +0100" channel="ES: TELECINCO">
+    <title>¡Toma Salami!: La tv que nos parió T3</title>
+    <desc>Entretenimiento,Zapping | 2020 | +7 | *5.8/10
+· Espacio vespertino que ofrece en tira diaria los momentos más destacados de los 30 años de historia de Mediaset España. Se recuperan momentos míticos y estará narrado por Javier Capitán.
+· País: España
+· Presenta: Javier Capitán.
+· Productora: Mediaset, Mandarina Producciones.</desc>
+  </programme>
+  <programme start="20251130074500 +0100" stop="20251130080000 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251130080000 +0100" stop="20251130081500 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1 E32</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251130081500 +0100" stop="20251130085000 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E41</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *6.2/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251130085000 +0100" stop="20251130100500 +0100" channel="ES: TELECINCO">
+    <title>Got Talent España. Momentazos T10 E15</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *7.8/10
+· La adaptación española del formato internacional "Got Talent" busca promesas en distintas disciplinas artísticas como el canto, el baile, la magia o el humor. Este espacio ofrece una selección de los mejores momentos del programa.
+· País: España</desc>
+  </programme>
+  <programme start="20251130100500 +0100" stop="20251130131500 +0100" channel="ES: TELECINCO">
+    <title>Got Talent España T10 E1</title>
+    <desc>Entretenimiento,Concurso | 2024 | +7 | *6.6/10
+· Concurso que busca nuevas promesas en distintas disciplinas artísticas. Los aspirantes mostrarán sus habilidades frente a un jurado compuesto por Florentino Fernández, Paula Echevarría, Tamara Falcó y Risto Mejide.
+· País: España
+· Presenta: Santi Millán.</desc>
+  </programme>
+  <programme start="20251130131500 +0100" stop="20251130150000 +0100" channel="ES: TELECINCO">
+    <title>¡Vaya fama! T1 E26</title>
+    <desc>Entretenimiento,Corazon y sociedad | 2025 | +16 | *6.0/10
+· Espacio que analiza las noticias de mayor impacto en el mundo del corazón con exclusivas, reportajes, investigaciones, conexiones en directo y los momentazos que protagonizan en el plató su equipo de colaboradores y reporteros.
+· País: España
+· Presenta: Cristina Lasvignes, Fran Ramírez.
+· Productora: Cuarzo Producciones.</desc>
+  </programme>
+  <programme start="20251130150000 +0100" stop="20251130153500 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Fin de Semana</title>
+    <desc>Información,Informativo | *6.2/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251130153500 +0100" stop="20251130154500 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco fin de semana T3 E324</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+  </programme>
+  <programme start="20251130154500 +0100" stop="20251130160000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251130160000 +0100" stop="20251130210000 +0100" channel="ES: TELECINCO">
+    <title>¡Fiesta! T5 E24</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Magacín presentado por Àlex Blanquer y César Muñoz que se centra en el mundo del corazón y el entretenimiento.
+· País: España
+· Presenta: Emma García.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251130210000 +0100" stop="20251130213500 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Fin de Semana noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· María Casado conduce las diferentes ediciones de los informativos del fin de semana del canal con las últimas noticias a nivel nacional e internacional.
+· País: España
+· Presenta: María Casado, Laila Jiménez.</desc>
+  </programme>
+  <programme start="20251130213500 +0100" stop="20251130214000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Fin de Semana Noche T3 E324</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Matías Prats Chacón presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Luis García (Presentador).</desc>
+  </programme>
+  <programme start="20251130214000 +0100" stop="20251130220000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251130220000 +0100" stop="20251130230000 +0100" channel="ES: TELECINCO">
+    <title>El Debate de las Tentaciones: hay más imágenes T1 E2</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *6.6/10
+· Una ventana extra para conocer más detalles de la experiencia protagonizada por las cinco parejas. Amplio contenido inédito e imágenes exclusivas de lo vivido en las villas que complementarán la selección de lo más destacado.
+· País: España</desc>
+  </programme>
+  <programme start="20251130230000 +0100" stop="20251201020000 +0100" channel="ES: TELECINCO">
+    <title>Gran Hermano: El debate T20 E4</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *6.0/10
+· Ion Aramendi conduce el debate que analiza todo lo acontecido durante la semana en "Gran Hermano 19". El 'reality' es analizado por los colaboradores del programa y por familiares de los concursantes.
+· País: España
+· Presenta: Ion Aramendi.</desc>
+  </programme>
+  <programme start="20251201020000 +0100" stop="20251201022500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2 E333</title>
+    <desc>Entretenimiento | 2025 | +18
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
+  </programme>
+  <programme start="20251201022500 +0100" stop="20251201024000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1 E13</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251201024000 +0100" stop="20251201025000 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251201025000 +0100" stop="20251201032000 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E26</title>
+    <desc>Ocio y Aficiones,Televenta | 2025 | TP | *6.0/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251201032000 +0100" stop="20251201034500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1 E15</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251201034500 +0100" stop="20251201054500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251201054500 +0100" stop="20251201061000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1 E31</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2025 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251201061000 +0100" stop="20251201070000 +0100" channel="ES: TELECINCO">
+    <title>Reacción en cadena</title>
+    <desc>Entretenimiento,Concurso | 2024 | TP | *6.0/10
+· Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.
+· País: España
+· Presenta: Ion Aramendi.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251201070000 +0100" stop="20251201083000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Información,Informativo | 2025 | *5.8/10
+· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251201083000 +0100" stop="20251201090000 +0100" channel="ES: TELECINCO">
+    <title>La mirada crítica</title>
+    <desc>Información,Informativo | 2024 | +16 | *5.8/10
+· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: José Luis Vidal, Ana Terradillos, Antonio Teixeira.</desc>
+  </programme>
+  <programme start="20251201090000 +0100" stop="20251201103000 +0100" channel="ES: TELECINCO">
+    <title>El programa de Ana Rosa</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.2/10
+· Magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251201103000 +0100" stop="20251201150000 +0100" channel="ES: TELECINCO">
+    <title>Vamos a ver</title>
+    <desc>Entretenimiento,Magacín | 2024 | +16 | *6.0/10
+· Joaquín Prat repasa todas las noticias de actualidad, investigación y entretenimiento.
+· País: España
+· Presenta: Joaquín Prat, Patricia Pardo, Adriana Dorronsoro.</desc>
+  </programme>
+  <programme start="20251201150000 +0100" stop="20251201153000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251201153000 +0100" stop="20251201154000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251201154000 +0100" stop="20251201154500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251201154500 +0100" stop="20251201183000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo justo T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251201183000 +0100" stop="20251201200000 +0100" channel="ES: TELECINCO">
+    <title>El Diario de Jorge</title>
+    <desc>Entretenimiento,Tertulia | 2024 | +16 | *5.8/10
+· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+  </programme>
+  <programme start="20251201200000 +0100" stop="20251201210000 +0100" channel="ES: TELECINCO">
+    <title>Reacción en cadena</title>
+    <desc>Entretenimiento,Concurso | 2024 | TP | *6.2/10
+· Concurso presentado por Ion Aramendi en el que dos equipos rivales compiten en pruebas sucesivas para resolver cadenas de palabras mientras van acumulando dinero.
+· País: España
+· Presenta: Ion Aramendi.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251201210000 +0100" stop="20251201213500 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251201213500 +0100" stop="20251201214500 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Noche</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251201214500 +0100" stop="20251201215000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251201215000 +0100" stop="20251202020000 +0100" channel="ES: TELECINCO">
+    <title>La isla de las tentaciones T9</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *6.8/10
+· Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
+· País: España
+· Presenta: Sandra Barneda.</desc>
+  </programme>
+  <programme start="20251202020000 +0100" stop="20251202025500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show</title>
+    <desc>Entretenimiento | 2024 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251202025500 +0100" stop="20251202030000 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251202030000 +0100" stop="20251202032500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251202032500 +0100" stop="20251202040000 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251202040000 +0100" stop="20251202055500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251202055500 +0100" stop="20251202090000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251202090000 +0100" stop="20251202133000 +0100" channel="ES: TELECINCO">
+    <title>El programa de Ana Rosa T21</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones, Unicorn Content.</desc>
+  </programme>
+  <programme start="20251202133000 +0100" stop="20251202150000 +0100" channel="ES: TELECINCO">
+    <title>Vamos a ver T4</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Patricia Pardo repasa todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Patricia Pardo.</desc>
+  </programme>
+  <programme start="20251202150000 +0100" stop="20251202152500 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251202152500 +0100" stop="20251202154000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251202154000 +0100" stop="20251202154500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251202154500 +0100" stop="20251202183000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo justo T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251202183000 +0100" stop="20251202200000 +0100" channel="ES: TELECINCO">
+    <title>El Diario de Jorge T2</title>
+    <desc>Entretenimiento,Tertulia | 2025 | +16 | *6.0/10
+· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+  </programme>
+  <programme start="20251202200000 +0100" stop="20251202210000 +0100" channel="ES: TELECINCO">
+    <title>Agárrate al sillón T1</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Un grupo de concursantes compite a dirario por destronar al Campeón, quien cuenta con ventajas estratégicas. Preguntas, puntos emoción y un premio en metálico entran en juego cada tarde.
+· País: España
+· Presenta: Eugeni Alemany.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251202210000 +0100" stop="20251202213000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251202213000 +0100" stop="20251202214000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Noche</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251202214000 +0100" stop="20251202214500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251202214500 +0100" stop="20251202230000 +0100" channel="ES: TELECINCO">
+    <title>La isla de las tentaciones</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *7.0/10
+· Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
+· País: España
+· Presenta: Sandra Barneda.</desc>
+  </programme>
+  <programme start="20251202230000 +0100" stop="20251203010000 +0100" channel="ES: TELECINCO">
+    <title>La que se avecina T14</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.4/10
+· Serie que se centra en la vida de los peculiares y variopintos personajes que residen y trabajan en el complejo residencial Mirador de Montepinar, situado en la periferia de una gran ciudad.
+· País: España
+· Reparto: Pablo Chiapella, Jordi Sánchez, Nacho Guerreros, Eva Isanta, Nathalie Seseña, Luis Merlo, Macarena Gómez, Fernando Tejero, Loles León.
+· Productora: Miramón Mendi S.A.</desc>
+  </programme>
+  <programme start="20251203010000 +0100" stop="20251203023500 +0100" channel="ES: TELECINCO">
+    <title>La que se avecina T13</title>
+    <desc>Series,Comedia | 2022 | +16 | *6.2/10
+· Tras desalojar el emblemático edificio de Mirador de Montepinar, los vecinos inician una nueva vida trasladándose a un inmueble en el centro de la ciudad.
+· País: España
+· Reparto: Pablo Chiapella, Jordi Sánchez, Nacho Guerreros, Eva Isanta, Nathalie Seseña, Luis Merlo, Fernando Tejero, Macarena Gómez, Loles León, Miren Ibarguren, Carlos Areces, Álex Delacroix, Elizabeth Larena, Laura Gómez-Lacueva.
+· Productora: Miramón Mendi S.A.</desc>
+  </programme>
+  <programme start="20251203023500 +0100" stop="20251203030000 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251203030000 +0100" stop="20251203032000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251203032000 +0100" stop="20251203032500 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251203032500 +0100" stop="20251203035500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251203035500 +0100" stop="20251203042500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251203042500 +0100" stop="20251203054500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251203054500 +0100" stop="20251203060000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251203060000 +0100" stop="20251203080000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Información,Informativo | 2025 | *5.8/10
+· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251203080000 +0100" stop="20251203090000 +0100" channel="ES: TELECINCO">
+    <title>La mirada crítica T4</title>
+    <desc>Información,Informativo | 2025 | +16 | *5.8/10
+· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
+  </programme>
+  <programme start="20251203090000 +0100" stop="20251203133000 +0100" channel="ES: TELECINCO">
+    <title>El programa de Ana Rosa T21</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones, Unicorn Content.</desc>
+  </programme>
+  <programme start="20251203133000 +0100" stop="20251203150000 +0100" channel="ES: TELECINCO">
+    <title>Vamos a ver T4</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Patricia Pardo repasa todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Patricia Pardo.</desc>
+  </programme>
+  <programme start="20251203150000 +0100" stop="20251203153000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251203153000 +0100" stop="20251203154000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251203154000 +0100" stop="20251203154500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251203154500 +0100" stop="20251203183000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo justo T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251203183000 +0100" stop="20251203200000 +0100" channel="ES: TELECINCO">
+    <title>El Diario de Jorge T2</title>
+    <desc>Entretenimiento,Tertulia | 2025 | +16 | *6.0/10
+· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+  </programme>
+  <programme start="20251203200000 +0100" stop="20251203210000 +0100" channel="ES: TELECINCO">
+    <title>Agárrate al sillón T1</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Un grupo de concursantes compite a dirario por destronar al Campeón, quien cuenta con ventajas estratégicas. Preguntas, puntos emoción y un premio en metálico entran en juego cada tarde.
+· País: España
+· Presenta: Eugeni Alemany.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251203210000 +0100" stop="20251203213000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251203213000 +0100" stop="20251203214000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Noche</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251203214000 +0100" stop="20251203214500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251203214500 +0100" stop="20251203230000 +0100" channel="ES: TELECINCO">
+    <title>La isla de las tentaciones T9</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *6.8/10
+· Varias parejas con una relación estable inician una gran experiencia en una isla para poner a prueba su amor. Sandra Barneda se pone al frente de este programa en el que las parejas se separan durante semanas para convivir con 10 solteros y solteras.
+· País: España
+· Presenta: Sandra Barneda.</desc>
+  </programme>
+  <programme start="20251203230000 +0100" stop="20251204004000 +0100" channel="ES: TELECINCO">
+    <title>La agencia T1</title>
+    <desc>Series,Comedia | 2025 | +12 | *6.4/10
+· En una de las agencias de representación más influyentes, cuatro asistentes se enfrentan a estrellas caprichosas, romances imposibles y luchas de egos, intentando equilibrar su vida personal con la feroz competencia por contratos y prestigio.
+· País: España
+· Dirección: Antonio Hernández.
+· Reparto: Manuela Velasco, Marta Hazas, Javier Gutiérrez, Andrés Velencoso, Denisse Peña, Fiorella Faltoyano, Goya Toledo, Carlos Bardem, Belén Rueda, Juan Gea, Oscar Hernandez, Fran Berenguer, Carlos Alcaide.
+· Guion: Daniel Écija, Javier Galán, Víctor Pedreira.
+· Productora: Good Mood.</desc>
+  </programme>
+  <programme start="20251204004000 +0100" stop="20251204020000 +0100" channel="ES: TELECINCO">
+    <title>La agencia T1</title>
+    <desc>Series,Comedia | 2025 | +12 | *6.4/10
+· En una de las agencias de representación más influyentes, cuatro asistentes se enfrentan a estrellas caprichosas, romances imposibles y luchas de egos, intentando equilibrar su vida personal con la feroz competencia por contratos y prestigio.
+· País: España
+· Dirección: Antonio Hernández.
+· Reparto: Manuela Velasco, Marta Hazas, Javier Gutiérrez, Andrés Velencoso, Denisse Peña, Fiorella Faltoyano, Goya Toledo, Carlos Bardem, Belén Rueda, Juan Gea, Oscar Hernandez, Fran Berenguer, Carlos Alcaide.
+· Guion: Daniel Écija, Javier Galán, Víctor Pedreira.
+· Productora: Good Mood.</desc>
+  </programme>
+  <programme start="20251204020000 +0100" stop="20251204022500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251204022500 +0100" stop="20251204024000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251204024000 +0100" stop="20251204024500 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251204024500 +0100" stop="20251204031500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251204031500 +0100" stop="20251204034500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251204034500 +0100" stop="20251204054500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251204054500 +0100" stop="20251204060000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251204060000 +0100" stop="20251204080000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Información,Informativo | 2025 | *5.8/10
+· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251204080000 +0100" stop="20251204090000 +0100" channel="ES: TELECINCO">
+    <title>La mirada crítica T4</title>
+    <desc>Información,Informativo | 2025 | +16 | *5.8/10
+· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
+  </programme>
+  <programme start="20251204090000 +0100" stop="20251204133000 +0100" channel="ES: TELECINCO">
+    <title>El programa de Ana Rosa T21</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones, Unicorn Content.</desc>
+  </programme>
+  <programme start="20251204133000 +0100" stop="20251204150000 +0100" channel="ES: TELECINCO">
+    <title>Vamos a ver T4</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Patricia Pardo repasa todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Patricia Pardo.</desc>
+  </programme>
+  <programme start="20251204150000 +0100" stop="20251204153000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251204153000 +0100" stop="20251204154000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251204154000 +0100" stop="20251204154500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251204154500 +0100" stop="20251204183000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo justo T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251204183000 +0100" stop="20251204200000 +0100" channel="ES: TELECINCO">
+    <title>El Diario de Jorge T2</title>
+    <desc>Entretenimiento,Tertulia | 2025 | +16 | *6.0/10
+· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+  </programme>
+  <programme start="20251204200000 +0100" stop="20251204210000 +0100" channel="ES: TELECINCO">
+    <title>Agárrate al sillón T1</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Un grupo de concursantes compite a dirario por destronar al Campeón, quien cuenta con ventajas estratégicas. Preguntas, puntos emoción y un premio en metálico entran en juego cada tarde.
+· País: España
+· Presenta: Eugeni Alemany.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251204210000 +0100" stop="20251204214000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251204214000 +0100" stop="20251204215500 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Noche</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251204215500 +0100" stop="20251204220000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251204220000 +0100" stop="20251205020000 +0100" channel="ES: TELECINCO">
+    <title>Gran Hermano T20</title>
+    <desc>Entretenimiento,Telerrealidad | 2025 | +16 | *6.4/10
+· Un grupo de concursantes debe convivir bajo el mismo techo en una casa llena de cámaras en Guadalix de la Sierra. El ganador de este concurso se alzará con un premio en metálico de 300.000 euros tras 90 días de encierro y de seguimiento en directo.
+· País: España
+· Productora: Zeppelin tv.</desc>
+  </programme>
+  <programme start="20251205020000 +0100" stop="20251205022500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251205022500 +0100" stop="20251205024000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251205024000 +0100" stop="20251205024500 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251205024500 +0100" stop="20251205031500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251205031500 +0100" stop="20251205034500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251205034500 +0100" stop="20251205054500 +0100" channel="ES: TELECINCO">
+    <title>Miramimúsica</title>
+    <desc>Música,Programa de música | 2016 | TP | *6.4/10
+· Programa musical que se emite de madrugada.
+· País: España</desc>
+  </programme>
+  <programme start="20251205054500 +0100" stop="20251205060000 +0100" channel="ES: TELECINCO">
+    <title>Enphorma T1</title>
+    <desc>Ocio y Aficiones,Salud y bienestar | 2023 | TP | *6.0/10
+· Programa especializado en temas actuales de alimentación, psicología y ejercicio.
+· País: España</desc>
+  </programme>
+  <programme start="20251205060000 +0100" stop="20251205080000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco matinal</title>
+    <desc>Información,Informativo | 2025 | *5.8/10
+· Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.
+· País: España
+· Presenta: Bricio Segovia.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251205080000 +0100" stop="20251205090000 +0100" channel="ES: TELECINCO">
+    <title>La mirada crítica T4</title>
+    <desc>Información,Informativo | 2025 | +16 | *5.8/10
+· José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.
+· País: España
+· Presenta: Ana Terradillos, José Luis Vidal, Antonio Texeira.</desc>
+  </programme>
+  <programme start="20251205090000 +0100" stop="20251205133000 +0100" channel="ES: TELECINCO">
+    <title>El programa de Ana Rosa T21</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.
+· País: España
+· Presenta: Ana Rosa Quintana.
+· Productora: Cuarzo Producciones, Unicorn Content.</desc>
+  </programme>
+  <programme start="20251205133000 +0100" stop="20251205150000 +0100" channel="ES: TELECINCO">
+    <title>Vamos a ver T4</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Patricia Pardo repasa todas las noticias de actualidad, investigación y entretenimiento que interesan al gran público.
+· País: España
+· Presenta: Patricia Pardo.</desc>
+  </programme>
+  <programme start="20251205150000 +0100" stop="20251205153000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco</title>
+    <desc>Información,Informativo | 2025 | *6.2/10
+· Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.
+· País: España
+· Presenta: Ángeles Blanco, Isabel Jiménez.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251205153000 +0100" stop="20251205154000 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco</title>
+    <desc>Deportes,Programa deportes | 2025 | *6.0/10
+· El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Manu Carreño, Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251205154000 +0100" stop="20251205154500 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251205154500 +0100" stop="20251205183000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo justo T1</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *5.8/10
+· Magacín presentado por Joaquín Prat que desarrolla cada noticia en tres fases.
+· País: España
+· Presenta: Joaquín Prat.
+· Productora: Unicorn Content.</desc>
+  </programme>
+  <programme start="20251205183000 +0100" stop="20251205200000 +0100" channel="ES: TELECINCO">
+    <title>El Diario de Jorge T2</title>
+    <desc>Entretenimiento,Tertulia | 2025 | +16 | *6.0/10
+· Jorge Javier Vázquez nos trae historias extraordinarias y sorprendentes, narradas en primera persona por sus protagonistas anónimos y por aquellos que mejor las conocen.
+· País: España
+· Presenta: Jorge Javier Vázquez.</desc>
+  </programme>
+  <programme start="20251205200000 +0100" stop="20251205210000 +0100" channel="ES: TELECINCO">
+    <title>Agárrate al sillón T1</title>
+    <desc>Entretenimiento,Concurso | 2025 | TP | *6.2/10
+· Un grupo de concursantes compite a dirario por destronar al Campeón, quien cuenta con ventajas estratégicas. Preguntas, puntos emoción y un premio en metálico entran en juego cada tarde.
+· País: España
+· Presenta: Eugeni Alemany.
+· Productora: Bulldog TV.</desc>
+  </programme>
+  <programme start="20251205210000 +0100" stop="20251205214000 +0100" channel="ES: TELECINCO">
+    <title>Informativos Telecinco Noche</title>
+    <desc>Información,Informativo | 2025 | *6.0/10
+· Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.
+· País: España
+· Presenta: Carlos Franganillo, Ángeles Blanco.
+· Productora: Gestevisión-Telecinco, S.A.</desc>
+  </programme>
+  <programme start="20251205214000 +0100" stop="20251205215500 +0100" channel="ES: TELECINCO">
+    <title>El Desmarque Telecinco Noche</title>
+    <desc>Deportes,Programa deportes | 2025 | *5.8/10
+· El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.
+· País: España
+· Presenta: Matías Prats (hijo).</desc>
+  </programme>
+  <programme start="20251205215500 +0100" stop="20251205220000 +0100" channel="ES: TELECINCO">
+    <title>El tiempo</title>
+    <desc>Información,Meteorología | 2017 | *5.8/10
+· Espacio informativo que ofrece la previsión meteorológica.
+· País: España
+· Presenta: Flora González, Rosalía Fernández, Alba Lago.</desc>
+  </programme>
+  <programme start="20251205220000 +0100" stop="20251206020000 +0100" channel="ES: TELECINCO">
+    <title>¡De Viernes! T3</title>
+    <desc>Entretenimiento,Magacín | 2025 | +16 | *6.0/10
+· Programa de crónica social presentado por Beatriz Archidona y Santi Acosta en el que se entrevistan a personajes importantes así como también se desvelan grandes exclusivas además de un repaso a la actualidad que marca la agenda del corazón.
+· País: España
+· Presenta: Beatriz Archidona, Santi Acosta.</desc>
+  </programme>
+  <programme start="20251206020000 +0100" stop="20251206022500 +0100" channel="ES: TELECINCO">
+    <title>Gran Madrid Show T2</title>
+    <desc>Entretenimiento | 2025 | +18 | *6.0/10
+· Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.
+· País: España</desc>
+  </programme>
+  <programme start="20251206022500 +0100" stop="20251206024000 +0100" channel="ES: TELECINCO">
+    <title>El rey del mando T1</title>
+    <desc>Entretenimiento,Zapping | 2025 | +16 | *6.0/10
+· Programa de zapping.
+· País: España</desc>
+  </programme>
+  <programme start="20251206024000 +0100" stop="20251206024500 +0100" channel="ES: TELECINCO">
+    <title>Horóscopo de Esperanza Gracia</title>
+    <desc>Ocio y Aficiones,Esoterismo | 2021 | +18 | *6.2/10
+· La tarotista Esperanza Gracia hace un repaso a la fortuna que van a vivir los distintos signos del zodiaco.
+· País: España
+· Presenta: Esperanza Gracia.</desc>
+  </programme>
+  <programme start="20251206024500 +0100" stop="20251206031500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
+  </programme>
+  <programme start="20251206031500 +0100" stop="20251206034500 +0100" channel="ES: TELECINCO">
+    <title>Love Shopping TV T1</title>
+    <desc>Ocio y Aficiones,Televenta | 2024 | TP | *5.8/10
+· Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
   </programme>
   <programme start="20251129064000 +0100" stop="20251129065100 +0100" channel="ES: ENERGY">
     <title>Miramimúsica</title>
