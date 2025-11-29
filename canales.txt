@@ -270,3 +270,10 @@ DAZN Event 7,ES: DAZN Event 7,https://docdog.top/logo/countries/spain/movistar/d
 DAZN Event 8,ES: DAZN Event 8,https://docdog.top/logo/countries/spain/movistar/dazn.png
 DAZN Event 9,ES: DAZN Event 9,https://docdog.top/logo/countries/spain/movistar/dazn.png
 DAZN Event 10,ES: DAZN Event 10,https://docdog.top/logo/countries/spain/movistar/dazn.png
+La 1,ES: LA 1,https://docdog.top/logo/countries/spain/movistar/LA_1.png
+Antena 3,ES: ANTENA 3,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
+Cuatro,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
+Telecinco,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Telecinco.png
+laSexta,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
+FDF,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
+Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
