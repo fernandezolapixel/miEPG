@@ -15,7 +15,7 @@ M+ Comedia HD,ES: M+ COMEDIA,https://docdog.top/logo/countries/spain/movistar/M_
 M+ Drama HD,ES: M+ DRAMA,https://docdog.top/logo/countries/spain/movistar/M_Drama.png
 M+ Indie HD,ES: M+ INDIE,https://docdog.top/logo/countries/spain/movistar/M_Indie.png
 M+ Cine Español,ES: M+ CINE ESPAÑOL,https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png
-Calle 13,ES: CALLE 13,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
+Calle 13 HD,ES: CALLE 13,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
 COSMO,ES: COSMO,https://docdog.top/logo/countries/spain/movistar/COSMO.png
 SYFY,ES: SYFY,https://docdog.top/logo/countries/spain/movistar/SYFY.png
 SkyShowtime 1,ES: SKYSHOWTIME 1,https://docdog.top/logo/countries/spain/movistar/SkyShowtime_1.png
