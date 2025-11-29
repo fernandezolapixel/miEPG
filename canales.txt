@@ -1,9 +1,9 @@
 La 1 HD,ES: LA 1,https://docdog.top/logo/countries/spain/movistar/LA_1.png
 Antena 3 HD,ES: ANTENA 3,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
 La 2,ES: LA 2,https://docdog.top/logo/countries/spain/movistar/LA_2.png
-laSexta,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
-Cuatro,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
-Telecinco,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Telecinco.png
+laSexta HD,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
+Cuatro HD,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
+Telecinco HD,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Telecinco.png
 Energy,ES: ENERGY,https://docdog.top/logo/countries/spain/movistar/Energy.png
 FDF,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
 Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
