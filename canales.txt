@@ -81,7 +81,6 @@ M. LaLiga,ES: (HD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_
 M. LaLiga,ES: (HD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
 M. LaLiga,ES: (FHD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
 M. LaLiga,ES: (FHD REPUESTO) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
-
 M. LaLiga 2,ES: (FHD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
 M. LaLiga 2,ES: (HD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_2_NEW.png
 M. LaLiga 3,ES: (FHD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
