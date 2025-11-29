@@ -92,18 +92,18 @@ LaLiga TV Hypermotion HD,ES: (HD) LALIGA TV HYPERMOTION,https://docdog.top/logo/
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
 LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png
 DAZN 1 HD,ES: (HD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
-DAZN 1,ES: (FHD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
-DAZN 1,ES: (SD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
-DAZN 2,ES: DAZN 2,https://docdog.top/logo/countries/spain/movistar/DAZN_2.png
+DAZN 1 HD,ES: (FHD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
+DAZN 1 HD,ES: (SD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
+DAZN 2 HD,ES: DAZN 2,https://docdog.top/logo/countries/spain/movistar/DAZN_2.png
 M+ Liga de Campeones HD,ES: (HD) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
-M+ Liga de Campeones,ES: (HD REPUESTO) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
-M+ Liga de Campeones,ES: (FHD) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
-M+ Liga de Campeones,ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
-M+ Liga de Campeones,ES: (SD) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
+M+ Liga de Campeones HD,ES: (HD REPUESTO) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
+M+ Liga de Campeones HD,ES: (FHD) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
+M+ Liga de Campeones HD,ES: (FHD REPUESTO) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
+M+ Liga de Campeones HD,ES: (SD) M+ LIGA DE CAMPEONES,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones.png
 M+ Liga de Campeones 2 HD,ES: (HD) M+ LIGA DE CAMPEONES 2,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png
-M+ Liga de Campeones 2,ES: (FHD) M+ LIGA DE CAMPEONES 2,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png
-M+ Liga de Campeones 3,ES: (HD) M+ LIGA DE CAMPEONES 3,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png
-M+ Liga de Campeones 3,ES: (FHD) M+ LIGA DE CAMPEONES 3,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png
+M+ Liga de Campeones 2 HD,ES: (FHD) M+ LIGA DE CAMPEONES 2,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_2.png
+M+ Liga de Campeones 3 HD,ES: (HD) M+ LIGA DE CAMPEONES 3,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png
+M+ Liga de Campeones 3 HD,ES: (FHD) M+ LIGA DE CAMPEONES 3,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_3.png
 M+ Liga de Campeones 4,ES: M+ LIGA DE CAMPEONES 4,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_4.png
 M+ Liga de Campeones 5,ES: M+ LIGA DE CAMPEONES 5,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_5.png
 M+ Liga de Campeones 6,ES: M+ LIGA DE CAMPEONES 6,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_6.png
@@ -116,17 +116,17 @@ M+ Liga de Campeones 12,ES: M+ LIGA DE CAMPEONES 12,https://docdog.top/logo/coun
 M+ Liga de Campeones 13,ES: M+ LIGA DE CAMPEONES 13,https://docdog.top/logo/countries/spain/movistar/M_Liga_de_Campeones_13.png
 M+ Copa del Rey,ES: M+ COPA DEL REY,https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png
 M+ Vamos HD,ES: (HD) M+ VAMOS,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
-M+ Vamos,ES: (FHD) M+ VAMOS,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
-M+ Ellas #V,ES: M+ ELLAS V,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
-M+ Golf,ES: M+ GOLF,https://docdog.top/logo/countries/spain/movistar/M_Golf.png
-M+ Golf 2,ES: M+ GOLF 2,https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png
-Eurosport 1,ES: EUROSPORT 1,https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png
+M+ Vamos HD,ES: (FHD) M+ VAMOS,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
+M+ Ellas HD #V,ES: M+ ELLAS V,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
+M+ Golf HD,ES: M+ GOLF,https://docdog.top/logo/countries/spain/movistar/M_Golf.png
+M+ Golf 2 HD,ES: M+ GOLF 2,https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png
+Eurosport 1 HD,ES: EUROSPORT 1,https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png
 Eurosport 2,ES: EUROSPORT 2,https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png
-GOL PLAY,ES: GOL PLAY,https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png
+GOL PLAY HD,ES: GOL PLAY,https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png
 Teledeporte,ES: TELEDEPORTE,https://docdog.top/logo/countries/spain/movistar/Teledeporte.png
 Real Madrid TV,ES: REAL MADRID TV,https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png
 Ubeat,ES: UBEAT,https://docdog.top/logo/countries/spain/movistar/Ubeat.png
-M+ Deportes,ES: (FHD) M+ DEPORTES,https://docdog.top/logo/countries/spain/movistar/M_Deportes.png
+M+ Deportes HD,ES: (FHD) M+ DEPORTES,https://docdog.top/logo/countries/spain/movistar/M_Deportes.png
 M+ Deportes HD,ES: (HD) M+ DEPORTES,https://docdog.top/logo/countries/spain/movistar/M_Deportes.png
 M+ Deportes 2,ES: M+ DEPORTES 2,https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png
 M+ Deportes 3,ES: M+ DEPORTES 3,https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png
