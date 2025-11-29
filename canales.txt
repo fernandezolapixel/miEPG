@@ -134,8 +134,8 @@ M+ Deportes 4,ES: M+ DEPORTES 4,https://docdog.top/logo/countries/spain/movistar
 M+ Deportes 5,ES: M+ DEPORTES 5,https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png
 M+ Deportes 6,ES: M+ DEPORTES 6,https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png
 M+ Deportes 7,ES: M+ DEPORTES 7,https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png
-DAZN 3,ES: DAZN 3,https://docdog.top/logo/countries/spain/movistar/DAZN_3.png
-DAZN 4,ES: DAZN 4,https://docdog.top/logo/countries/spain/movistar/DAZN_4.png
+DAZN 3 HD,ES: DAZN 3,https://docdog.top/logo/countries/spain/movistar/DAZN_3.png
+DAZN 4 HD,ES: DAZN 4,https://docdog.top/logo/countries/spain/movistar/DAZN_4.png
 Mezzo,ES: MEZZO,https://docdog.top/logo/countries/spain/movistar/Mezzo.png
 Mezzo Live,ES: MEZZO LIVE,https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png
 Betis TV,ES: BETIS TV,https://docdog.top/logo/countries/spain/movistar/BETISTV.png
@@ -144,11 +144,11 @@ DAZN LaLiga HD,ES: (HD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/s
 DAZN LaLiga HD,ES: (HD REPUESTO2) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
 DAZN LaLiga HD,ES: (FHD) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
 DAZN LaLiga HD,ES: (FHD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
-DAZN LaLiga 2,ES: DAZN LALIGA 2,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png
-DAZN F1,ES: (HD) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
-DAZN F1,ES: (HD REPUESTO) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
-DAZN F1,ES: (FHD) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
-DAZN F1,ES: (FHD REPUESTO) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
+DAZN LaLiga 2 HD,ES: DAZN LALIGA 2,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png
+DAZN F1 HD,ES: (HD) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
+DAZN F1 HD,ES: (HD REPUESTO) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
+DAZN F1 HD,ES: (FHD) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
+DAZN F1 HD,ES: (FHD REPUESTO) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
 OneToro,ES: (LÍNEA 1) ONETORO,https://docdog.top/logo/countries/spain/movistar/one_toro.png
 OneToro,ES: (LÍNEA 2) ONETORO,https://docdog.top/logo/countries/spain/movistar/one_toro.png
 Torolé TV,ES: TOROLE TV,https://docdog.top/logo/countries/spain/movistar/torole_tv.png
