@@ -25,8 +25,8 @@ TCM,ES: TCM,https://docdog.top/logo/countries/spain/movistar/TCM.png
 Paramount Network,ES: PARAMOUNT CHANNEL,https://docdog.top/logo/countries/spain/movistar/Paramount_Network.png
 Be Mad,ES: BE MAD,https://docdog.top/logo/countries/spain/movistar/BE_MAD.png
 Warner TV,ES: WARNER TV,https://docdog.top/logo/countries/spain/movistar/Warner_TV.png
-Hollywood,ES: HOLLYWOOD,https://docdog.top/logo/countries/spain/movistar/Hollywood.png
-AXN,ES: AXN,https://docdog.top/logo/countries/spain/movistar/AXN.png
+Hollywood HD,ES: HOLLYWOOD,https://docdog.top/logo/countries/spain/movistar/Hollywood.png
+AXN HD,ES: AXN,https://docdog.top/logo/countries/spain/movistar/AXN.png
 Comedy Central,ES: COMEDY CENTRAL,https://docdog.top/logo/countries/spain/movistar/Comedy_Central.png
 MTV,ES: MTV,https://docdog.top/logo/countries/spain/movistar/MTV.png
 MTV 00s,ES: MTV 00S,https://docdog.top/logo/countries/spain/movistar/MTV_00s.png
@@ -74,7 +74,7 @@ Nat Geo Wild,ES: NAT GEO WILD,https://docdog.top/logo/countries/spain/movistar/N
 Historia,ES: HISTORIA,https://docdog.top/logo/countries/spain/movistar/Historia.png
 Discovery,ES: DISCOVERY,https://docdog.top/logo/countries/spain/movistar/Discovery.png
 DMAX,ES: DMAX,https://docdog.top/logo/countries/spain/movistar/DMAX.png
-M+ (0),ES: MOVISTAR PLUS+,https://docdog.top/logo/countries/spain/movistar/MPLUS.png
+M+ HD (0),ES: MOVISTAR PLUS+,https://docdog.top/logo/countries/spain/movistar/MPLUS.png
 Movistar Plus+ 2,ES: MOVISTAR PLUS+ 2,https://docdog.top/logo/countries/spain/movistar/Movistar_Plus_2.png
 M+ Originales,ES: M+ ORIGINALES,https://docdog.top/logo/countries/spain/movistar/M_Originales.png
 M+ LaLiga HD,ES: (HD) M+ LALIGA,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_NEW.png
@@ -91,7 +91,7 @@ LaLiga Hypermotion,ES: (FHD) LALIGA TV HYPERMOTION,https://docdog.top/logo/count
 LaLiga Hypermotion,ES: (HD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
 LaLiga Hypermotion 2,ES: LALIGA TV HYPERMOTION 2,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
 LaLiga Hypermotion 3,ES: LALIGA TV HYPERMOTION 3,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png
-DAZN 1,ES: (HD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
+DAZN 1 HD,ES: (HD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 DAZN 1,ES: (FHD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 DAZN 1,ES: (SD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 DAZN 2,ES: DAZN 2,https://docdog.top/logo/countries/spain/movistar/DAZN_2.png
