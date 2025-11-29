@@ -1,14 +1,14 @@
 La 1 HD,ES: LA 1,https://docdog.top/logo/countries/spain/movistar/LA_1.png
 Antena 3 HD,ES: ANTENA 3,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
 La 2,ES: LA 2,https://docdog.top/logo/countries/spain/movistar/LA_2.png
-laSexta HD,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
+La Sexta HD,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
 Cuatro HD,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
 Telecinco HD,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Telecinco.png
 Energy,ES: ENERGY,https://docdog.top/logo/countries/spain/movistar/Energy.png
 FDF,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
 Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
-M. Cine,ES: M+ CINE,https://docdog.top/logo/countries/spain/movistar/M_Cine.png
-M. Series,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
+M+ Cine,ES: M+ CINE,https://docdog.top/logo/countries/spain/movistar/M_Cine.png
+M+ Series,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
 M. Clásicos,ES: M+ CLÁSICOS,https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png
 M. Acción,ES: M+ ACCIÓN,https://docdog.top/logo/countries/spain/movistar/M_Accion.png
 M. Comedia,ES: M+ COMEDIA,https://docdog.top/logo/countries/spain/movistar/M_Comedia.png
