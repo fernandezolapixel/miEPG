@@ -1,5 +1,5 @@
-La 1,ES: LA 1,https://docdog.top/logo/countries/spain/movistar/LA_1.png
-Antena 3,ES: ANTENA 3,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
+La 1 HD,ES: LA 1,https://docdog.top/logo/countries/spain/movistar/LA_1.png
+Antena 3 HD,ES: ANTENA 3,https://docdog.top/logo/countries/spain/movistar/Antena_3.png
 La 2,ES: LA 2,https://docdog.top/logo/countries/spain/movistar/LA_2.png
 laSexta,ES: LA SEXTA,https://docdog.top/logo/countries/spain/movistar/La_Sexta.png
 Cuatro,ES: CUATRO,https://docdog.top/logo/countries/spain/movistar/Cuatro.png
