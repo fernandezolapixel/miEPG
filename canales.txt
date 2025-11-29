@@ -7,13 +7,13 @@ Telecinco HD,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Tele
 Energy,ES: ENERGY,https://docdog.top/logo/countries/spain/movistar/Energy.png
 FDF,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
 Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
-M+ Cine,ES: M+ CINE,https://docdog.top/logo/countries/spain/movistar/M_Cine.png
-M+ Series,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
-M+ Clásicos,ES: M+ CLÁSICOS,https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png
-M+ Acción,ES: M+ ACCIÓN,https://docdog.top/logo/countries/spain/movistar/M_Accion.png
-M+ Comedia,ES: M+ COMEDIA,https://docdog.top/logo/countries/spain/movistar/M_Comedia.png
-M+ Drama,ES: M+ DRAMA,https://docdog.top/logo/countries/spain/movistar/M_Drama.png
-M+ Indie,ES: M+ INDIE,https://docdog.top/logo/countries/spain/movistar/M_Indie.png
+M+ Cine HD,ES: M+ CINE,https://docdog.top/logo/countries/spain/movistar/M_Cine.png
+M+ Series HD,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
+M+ Clásicos HD,ES: M+ CLÁSICOS,https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png
+M+ Acción HD,ES: M+ ACCIÓN,https://docdog.top/logo/countries/spain/movistar/M_Accion.png
+M+ Comedia HD,ES: M+ COMEDIA,https://docdog.top/logo/countries/spain/movistar/M_Comedia.png
+M+ Drama HD,ES: M+ DRAMA,https://docdog.top/logo/countries/spain/movistar/M_Drama.png
+M+ Indie HD,ES: M+ INDIE,https://docdog.top/logo/countries/spain/movistar/M_Indie.png
 M+ Cine Español,ES: M+ CINE ESPAÑOL,https://docdog.top/logo/countries/spain/movistar/M_Cine_Espaol.png
 Calle 13,ES: CALLE 13,https://docdog.top/logo/countries/spain/movistar/Calle_13.png
 COSMO,ES: COSMO,https://docdog.top/logo/countries/spain/movistar/COSMO.png
