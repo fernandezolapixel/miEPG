@@ -87,10 +87,10 @@ M+ LaLiga 3 HD,ES: (FHD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/
 M+ LaLiga 3 HD,ES: (HD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 LaLiga TV BAR HD,ES: (FHD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
 M+ LaLiga BAR,ES: (HD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
-LaLiga Hypermotion,ES: (FHD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
-LaLiga Hypermotion,ES: (HD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
-LaLiga Hypermotion 2,ES: LALIGA TV HYPERMOTION 2,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
-LaLiga Hypermotion 3,ES: LALIGA TV HYPERMOTION 3,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png
+LaLiga TV Hypermotion HD,ES: (FHD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
+LaLiga TV Hypermotion HD,ES: (HD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
+LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
+LaLiga TV Hypermotion 3,ES: LALIGA TV HYPERMOTION 3,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_3.png
 DAZN 1 HD,ES: (HD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 DAZN 1,ES: (FHD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
 DAZN 1,ES: (SD) DAZN 1,https://docdog.top/logo/countries/spain/movistar/DAZN_1.png
@@ -139,11 +139,11 @@ DAZN 4,ES: DAZN 4,https://docdog.top/logo/countries/spain/movistar/DAZN_4.png
 Mezzo,ES: MEZZO,https://docdog.top/logo/countries/spain/movistar/Mezzo.png
 Mezzo Live,ES: MEZZO LIVE,https://docdog.top/logo/countries/spain/movistar/Mezzo_Live.png
 Betis TV,ES: BETIS TV,https://docdog.top/logo/countries/spain/movistar/BETISTV.png
-DAZN LaLiga,ES: (HD) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
-DAZN LaLiga,ES: (HD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
-DAZN LaLiga,ES: (HD REPUESTO2) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
-DAZN LaLiga,ES: (FHD) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
-DAZN LaLiga,ES: (FHD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,ES: (HD) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,ES: (HD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,ES: (HD REPUESTO2) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,ES: (FHD) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
+DAZN LaLiga HD,ES: (FHD REPUESTO) DAZN LALIGA,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png
 DAZN LaLiga 2,ES: DAZN LALIGA 2,https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png
 DAZN F1,ES: (HD) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
 DAZN F1,ES: (HD REPUESTO) DAZN F1,https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png
