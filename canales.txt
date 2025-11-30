@@ -63,12 +63,12 @@ EuroNews,ES: EURONEWS,https://docdog.top/logo/countries/spain/movistar/Euronews.
 El Toro TV,ES: EL TORO TV,https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png
 Negocios TV,ES: NEGOCIOS TV,https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png
 Canal Sur Andalucía,ES: CANAL SUR ANDALUCÍA,https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png
-TVG Europa,ES: TVG EUROPA,https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png
+TVG,ES: TVG EUROPA,https://docdog.top/logo/countries/spain/movistar/TVG_Europa.png
 Canal Extremadura SAT,ES: CANAL EXTREMADURA SAT,https://docdog.top/logo/countries/spain/movistar/Canal_Extremadura_Sat.png
-Aragón TV INT,ES: ARAGÓN TV INT,https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png
+Aragón TV Internacional,ES: ARAGÓN TV INT,https://docdog.top/logo/countries/spain/movistar/Aragon_TV_Int.png
 EITB Basque,ES: EITB BASQUE,https://docdog.top/logo/countries/spain/movistar/EITB_Basque.png
-TV3CAT,ES: TV3 CAT,https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png
-Telemadrid INT,ES: TELEMADRID INT,https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png
+TV3,ES: TV3 CAT,https://docdog.top/logo/countries/spain/movistar/TV3_Cat.png
+Telemadrid,ES: TELEMADRID INT,https://docdog.top/logo/countries/spain/movistar/Telemadrid_Int.png
 M+ Documentales HD,ES: M+ DOCUMENTALES,https://docdog.top/logo/countries/spain/movistar/M_Documentales.png
 National Geographic HD,ES: NATIONAL GEOGRAPHIC,https://docdog.top/logo/countries/spain/movistar/National_Geographic.png
 Nat Geo Wild HD,ES: NAT GEO WILD,https://docdog.top/logo/countries/spain/movistar/Nat_Geo_Wild.png
@@ -87,7 +87,7 @@ M+ LaLiga 2 HD,ES: (HD) M+ LALIGA TV 2,https://docdog.top/logo/countries/spain/m
 M+ LaLiga 3 HD,ES: (FHD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 M+ LaLiga 3 HD,ES: (HD) M+ LALIGA TV 3,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_3_NEW.png
 LaLiga TV BAR HD,ES: (FHD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
-M+ LaLiga BAR,ES: (HD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
+LaLiga TV BAR HD,ES: (HD) M+ LALIGA TV BAR,https://docdog.top/logo/countries/spain/movistar/laligabares.png
 LaLiga TV Hypermotion HD,ES: (FHD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
 LaLiga TV Hypermotion HD,ES: (HD) LALIGA TV HYPERMOTION,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION.png
 LaLiga TV Hypermotion 2,ES: LALIGA TV HYPERMOTION 2,https://docdog.top/logo/countries/spain/movistar/LALIGA_TV_HYPERMOTION_2.png
@@ -118,7 +118,7 @@ M+ Liga de Campeones 13,ES: M+ LIGA DE CAMPEONES 13,https://docdog.top/logo/coun
 M+ Copa del Rey,ES: M+ COPA DEL REY,https://docdog.top/logo/countries/spain/movistar/M_COPA_DEL_REY.png
 M+ Vamos HD,ES: (HD) M+ VAMOS,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
 M+ Vamos HD,ES: (FHD) M+ VAMOS,https://docdog.top/logo/countries/spain/movistar/M_Vamos.png
-M+ Ellas Vamos HD #V,ES: M+ ELLAS V,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
+M+ Ellas Vamos HD,ES: M+ ELLAS V,https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png
 M+ Golf HD,ES: M+ GOLF,https://docdog.top/logo/countries/spain/movistar/M_Golf.png
 M+ Golf 2 HD,ES: M+ GOLF 2,https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png
 Eurosport 1 HD,ES: EUROSPORT 1,https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png
@@ -126,7 +126,7 @@ Eurosport 2,ES: EUROSPORT 2,https://docdog.top/logo/countries/spain/movistar/Eur
 GOL,ES: GOL PLAY,https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png
 Teledeporte,ES: TELEDEPORTE,https://docdog.top/logo/countries/spain/movistar/Teledeporte.png
 Real Madrid TV,ES: REAL MADRID TV,https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png
-UBEATt,ES: UBEAT,https://docdog.top/logo/countries/spain/movistar/Ubeat.png
+UBEAT,ES: UBEAT,https://docdog.top/logo/countries/spain/movistar/Ubeat.png
 M+ Deportes HD,ES: (FHD) M+ DEPORTES,https://docdog.top/logo/countries/spain/movistar/M_Deportes.png
 M+ Deportes HD,ES: (HD) M+ DEPORTES,https://docdog.top/logo/countries/spain/movistar/M_Deportes.png
 M+ Deportes 2 HD,ES: M+ DEPORTES 2,https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png
@@ -161,7 +161,7 @@ BuenViaje,ES: M+ BUEN VIAJE,https://docdog.top/logo/countries/spain/movistar/Bue
 CMM TV,ES: CASTILLA LA MANCHA,https://docdog.top/logo/countries/spain/movistar/cmm.png
 MAX PPV,ES: MAX PPV,http://docdog.top/logo/countries/spain/movistar/max.png
 PRIME PPV,ES: PRIME PPV,http://docdog.top/logo/countries/spain/movistar/prime.png
-M+ LaLiga TV 4,ES: M+ LALIGA TV 4,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png
+M+ LaLiga TV 4 HD,ES: M+ LALIGA TV 4,https://docdog.top/logo/countries/spain/movistar/M_LALIGA_TV_4_NEW.png
 DARK,ES: DARK,https://docdog.top/logo/countries/spain/movistar/DARK.png
 Sundance TV,ES: SUNDANCE,https://docdog.top/logo/countries/spain/movistar/Sundance.png
 AMC HD,ES: AMC,https://docdog.top/logo/countries/spain/movistar/AMC.png
@@ -173,7 +173,7 @@ Cazavisión,ES: CAZAVISIÓN,https://docdog.top/logo/countries/spain/movistar/caz
 AXN Movies HD,ES: AXN MOVIES,https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png
 Odisea,ES: ODISEA,https://docdog.top/logo/countries/spain/movistar/Odisea.png
 M+ Estrenos HD,ES: M+ ESTRENOS,https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png
-CH1 DH,CH1,
+CH1 HD,CH1,
 CH2 HD,CH2,
 CH3 HD,CH3,
 CH4 HD,CH4,
