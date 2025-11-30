@@ -37,7 +37,7 @@ Ten,ES: TEN,https://docdog.top/logo/countries/spain/movistar/Ten.png
 DKISS,ES: DKISS,https://docdog.top/logo/countries/spain/movistar/DKISS.png
 Canal Cocina,ES: CANAL COCINA,https://docdog.top/logo/countries/spain/movistar/Canal_Cocina.png
 Decasa,ES: CANAL DECASA,https://docdog.top/logo/countries/spain/movistar/Canal_Decasa.png
-Enfamilia,ES: ENFAMILIA,https://docdog.top/logo/countries/spain/movistar/Enfamilia.png
+VinTV,ES: ENFAMILIA,https://docdog.top/logo/countries/spain/movistar/Enfamilia.png
 Baby TV,ES: BABY TV,https://docdog.top/logo/countries/spain/movistar/Baby_TV.png
 Disney Junior,ES: DISNEY JUNIOR,https://docdog.top/logo/countries/spain/movistar/Disney_Junior.png
 Nick JR,ES: NICK JR,https://docdog.top/logo/countries/spain/movistar/NICK_JR.png
@@ -48,17 +48,17 @@ Boing,ES: BOING,https://docdog.top/logo/countries/spain/movistar/Boing.png
 Clan,ES: CLAN TVE,https://docdog.top/logo/countries/spain/movistar/Clan_TVE.png
 TRECE,ES: TRECE,https://docdog.top/logo/countries/spain/movistar/TRECE.png
 Atreseries,ES: ATRESERIES,https://docdog.top/logo/countries/spain/movistar/Atreseries.png
-Al Jazeera English,ES: AL JAZEERA ENGLISH,https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png
-France 24 (FR),ES: FRANCE24 (FR),https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png
-1+1 Internacional,ES: 1+1 INTERNACIONAL,https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png
-CNBC,ES: CNBC,https://docdog.top/logo/countries/spain/movistar/CNBC.png
-TV5Monde,ES: TV5MONDE,https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png
+Al Jazeera English HD,ES: AL JAZEERA ENGLISH,https://docdog.top/logo/countries/spain/movistar/Al_Jazeera_English.png
+FR | FRANCE 24,ES: FRANCE24 (FR),https://docdog.top/logo/countries/spain/movistar/FRANCE24_FR.png
+1+1 International,ES: 1+1 INTERNACIONAL,https://docdog.top/logo/countries/spain/movistar/1_1_Internacional.png
+CNBC Europe HD,ES: CNBC,https://docdog.top/logo/countries/spain/movistar/CNBC.png
+TV5 Monde Europe HD,ES: TV5MONDE,https://docdog.top/logo/countries/spain/movistar/TV5MONDE.png
 CGTN Español,ES: CGTN ESPAÑOL,https://docdog.top/logo/countries/spain/movistar/CGTN_Espanol.png
-Bloomberg,ES: BLOOMBERG,https://docdog.top/logo/countries/spain/movistar/Bloomberg.png
+Bloomberg TV Europe,ES: BLOOMBERG,https://docdog.top/logo/countries/spain/movistar/Bloomberg.png
 Canal 24 Horas,ES: 24 HORAS,https://docdog.top/logo/countries/spain/movistar/24_Horas.png
-BBC World News,ES: BBC WORLD,https://docdog.top/logo/countries/spain/movistar/BBC_World.png
-CNN International,ES: CNN INT,https://docdog.top/logo/countries/spain/movistar/CNN_Int.png
-Euronews,ES: EURONEWS,https://docdog.top/logo/countries/spain/movistar/Euronews.png
+BBC World News Europe HD,ES: BBC WORLD,https://docdog.top/logo/countries/spain/movistar/BBC_World.png
+CNN International Europe,ES: CNN INT,https://docdog.top/logo/countries/spain/movistar/CNN_Int.png
+EuroNews,ES: EURONEWS,https://docdog.top/logo/countries/spain/movistar/Euronews.png
 El Toro TV,ES: EL TORO TV,https://docdog.top/logo/countries/spain/movistar/El_Toro_TV.png
 Negocios TV,ES: NEGOCIOS TV,https://docdog.top/logo/countries/spain/movistar/Negocios_TV.png
 Canal Sur Andalucía,ES: CANAL SUR ANDALUCÍA,https://docdog.top/logo/countries/spain/movistar/Canal_Sur_Andalucia.png
