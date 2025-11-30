@@ -7,7 +7,7 @@ Telecinco HD,ES: TELECINCO,https://docdog.top/logo/countries/spain/movistar/Tele
 Energy,ES: ENERGY,https://docdog.top/logo/countries/spain/movistar/Energy.png
 Factoría de Ficción,ES: FACTORÍA DE FICCIÓN,https://docdog.top/logo/countries/spain/movistar/Factoria_de_Ficcion.png
 Neox,ES: NEOX,https://docdog.top/logo/countries/spain/movistar/Neox.png
-M+ Estrenos HD,ES: M+ ESTRENOS,https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png
+Movistar Estrenos HD,ES: M+ ESTRENOS,https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png
 M+ Hits HD,ES: M+ SERIES,https://docdog.top/logo/countries/spain/movistar/M_Series.png
 M+ Clásicos HD,ES: M+ CLÁSICOS,https://docdog.top/logo/countries/spain/movistar/M_Clasicos.png
 M+ Acción HD,ES: M+ ACCIÓN,https://docdog.top/logo/countries/spain/movistar/M_Accion.png
