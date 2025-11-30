@@ -173,18 +173,18 @@ Cazavisión,ES: CAZAVISIÓN,https://docdog.top/logo/countries/spain/movistar/caz
 AXN Movies HD,ES: AXN MOVIES,https://docdog.top/logo/countries/spain/movistar/AXN_Movies.png
 Odisea,ES: ODISEA,https://docdog.top/logo/countries/spain/movistar/Odisea.png
 M+ Estrenos HD,ES: M+ ESTRENOS,https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png
-CH1,CH1,
-CH2,CH2,
-CH3,CH3,
-CH4,CH4,
-CH5,CH5,
-CH6,CH6,
-CH7,CH7,
-CH8,CH8,
-CH9,CH9,
-CH10,CH10,
-CH11,CH11,
-CH12,CH12,
+CH1 DH,CH1,
+CH2 HD,CH2,
+CH3 HD,CH3,
+CH4 HD,CH4,
+CH5 HD,CH5,
+CH6 HD,CH6,
+CH7 HD,CH7,
+CH8 HD,CH8,
+CH9 HD,CH9,
+CH10 HD,CH10,
+CH11 HD,CH11,
+CH12 HD,CH12,
 Caza y Pesca HD,ES: CAZA Y PESCA,https://docdog.top/logo/countries/spain/movistar/CAZHD.png
 M+ Hits HD,ES: M+ HITS,
 ACB Evento 01,ES: ACB Evento 01,https://docdog.top/logo/countries/spain/movistar/DAZN_ACB.png
@@ -231,8 +231,8 @@ DAZN NBA Event 3,ES: DAZN NBA Event 3,https://docdog.top/logo/countries/spain/mo
 DAZN NBA Event 4,ES: DAZN NBA Event 4,https://docdog.top/logo/countries/spain/movistar/nba.png
 DAZN NBA Event 5,ES: DAZN NBA Event 5,https://docdog.top/logo/countries/spain/movistar/nba.png
 Primera Federación,ES: RFEF TV 1 FHD,https://docdog.top/logo/countries/spain/RFEF.png
-RFEF TV 2 FHD,ES: RFEF TV 2 FHD,https://docdog.top/logo/countries/spain/RFEF.png
-RFEF TV 3 FHD,ES: RFEF TV 3 FHD,https://docdog.top/logo/countries/spain/RFEF.png
+Primera Federación 2,ES: RFEF TV 2 FHD,https://docdog.top/logo/countries/spain/RFEF.png
+Primera Federación 3,ES: RFEF TV 3 FHD,https://docdog.top/logo/countries/spain/RFEF.png
 RFEF TV 4 FHD,ES: RFEF TV 4 FHD,https://docdog.top/logo/countries/spain/RFEF.png
 RFEF TV 5 FHD,ES: RFEF TV 5 FHD,https://docdog.top/logo/countries/spain/RFEF.png
 RFEF TV 6 FHD,ES: RFEF TV 6 FHD,https://docdog.top/logo/countries/spain/RFEF.png
